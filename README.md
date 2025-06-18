@@ -37,7 +37,7 @@ Create an intelligent assistant to streamline access to relevant project informa
 
 ---
 
-## Phase I
+## Phase I (Working...)
 
 **Description**: Development of the basic architecture of the intelligent assistant, integrating LLM, Agent, and MCP, with a local console-level client.
 
@@ -71,4 +71,15 @@ Create an intelligent assistant to streamline access to relevant project informa
 ## Phase V
 
 **Description**: Development of a client interface integrated into the Testrack webpage for server access. Integrate chatbot interface on the server at `www.testrack.visteon.com`.
+
+# Documentation
+
+Code will be locally documented via docstrings and type hints, this will be enforced by the linter.
+Implementation details and design information will be tracked via this table of contents.
+
+|     | Section                               | Description                                                    |
+| --- | ---------------------------------     | -------------------------------------------------------------- |
+|     | __Backend__                           |                                                                |
+| 1.1 | [Requirements](docs/requirements.md)  | Project dependencies                                           |
+| 1.2 | [Source control](docs/git.md)         | Git commands reference                                         |
 

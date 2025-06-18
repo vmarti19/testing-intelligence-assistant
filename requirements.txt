@@ -1,1 +1,6 @@
 # Project dependencies
+asyncio
+os
+subprocess
+flake8
+llama_index

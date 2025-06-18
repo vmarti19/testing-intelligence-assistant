@@ -1,0 +1,15 @@
+
+[tool.poetry]
+name = "my-intelligent-assistant"
+version = "0.1.0"
+description = "An intelligent assistant project"
+authors = ["Your Name <youremail@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flake8 = "^3.9.2"
+llama_index = "^0.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

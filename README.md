@@ -32,6 +32,7 @@ Create an intelligent assistant to streamline access to relevant project informa
 ### 🧱 **Phase I: Basic Architecture (LLM + Agent + MCP)**
 
 **Description**: Development of the basic architecture of the intelligent assistant, integrating LLM, Agent, and MCP, with a local console-level client.
+
 **Goal:** Build a functional console-level assistant that can receive instructions, reason, and perform basic actions.
 
 <p align="center">
@@ -54,6 +55,7 @@ Create an intelligent assistant to streamline access to relevant project informa
 ### 🧰 **Phase II: Tool Development for the Agent**
 
 **Description**: Development of tools for the agent.
+
 **Goal:** Extend the agent’s capabilities with specialized tools.
 
 #### Activities:
@@ -92,6 +94,7 @@ Create an intelligent assistant to streamline access to relevant project informa
 ### ☁️ **Phase IV: Remote Server Deployment**
 
 **Description**: Integration of the assistant on a remote server.
+
 **Goal:** Make the assistant accessible from anywhere.
 
 #### Activities:
@@ -106,6 +109,7 @@ Create an intelligent assistant to streamline access to relevant project informa
 ### 📚 **Phase V: RAG Integration (Retrieval-Augmented Generation)**
 
 **Description**: Integration of RAG*, connection to the remote server where RAG will be hosted. 
+
 **Goal:** Enable the assistant to answer questions using external documents.
 
 #### Activities:
@@ -128,6 +132,7 @@ Create an intelligent assistant to streamline access to relevant project informa
 ### 🌐 **Phase VI: Web Client Interface on Testrack**
 
 **Description**: Development of a client interface integrated into the Testrack webpage for server access. Integrate the chatbot interface on the server at `www.testrack.visteon.com`.
+
 **Goal:** Develop a user-friendly web interface for interacting with the assistant.
 
 #### Activities:

@@ -24,7 +24,7 @@ Create an intelligent assistant to streamline access to relevant project informa
 6. **Agent → Client**: The agent may process, enrich, or contextualize the response before returning it to the user.
 
 <p align="center">
-  <img src="docs\images\flowwork_system_ia.png" alt="Flow-work diagram " width="400"/>
+  <img src="docs\images\flowwork_system_ia.png" alt="Flow-work diagram " width="600"/>
 </p>
 
 <p align="center"><strong>Figure:</strong> Diagram flow work of task sequence for request query.</p>
@@ -42,7 +42,7 @@ Create an intelligent assistant to streamline access to relevant project informa
 **Goal:** Build a functional console-level assistant that can receive instructions, reason, and perform basic actions.
 
 <p align="center">
-  <img src="docs\images\ai_base_proposal.png" alt="Client LLM Diagram" width="400"/>
+  <img src="docs\images\ai_base_proposal.png" alt="Client LLM Diagram" width="600"/>
 </p>
 
 <p align="center"><strong>Figure:</strong> Client (LLM): Using a model trained for tools, running on an API such as Ollama or OpenAI.</p>
@@ -65,7 +65,7 @@ Create an intelligent assistant to streamline access to relevant project informa
 **Goal:** Extend the agent’s capabilities with specialized tools.
 
 <p align="center">
-  <img src="docs\images\robust_proposal_implementation.jpg" alt="Agent Robust Diagram generic" width="400"/>
+  <img src="docs\images\robust_proposal_implementation.jpg" alt="Agent Robust Diagram generic" width="700"/>
 </p>
 
 <p align="center"><strong>Figure:</strong> Model Context Protocol (MCP): Connection to PGAdmin, e.g., using `libpsycopg2`, `SQLAlchemy`.</p>
@@ -90,7 +90,7 @@ Create an intelligent assistant to streamline access to relevant project informa
 **Goal:** Enable the agent to interact with external tools like databases and browsers.
 
 <p align="center">
-  <img src="docs\images\mcp_basic-concept_generic.jpg" alt="MCP Diagram generic" width="400"/>
+  <img src="docs\images\mcp_basic-concept_generic.jpg" alt="MCP Diagram generic" width="500"/>
 </p>
 
 <p align="center"><strong>Figure:</strong> Model Context Protocol (MCP): Connection to PGAdmin, e.g., using `libpsycopg2`, `SQLAlchemy`.</p>

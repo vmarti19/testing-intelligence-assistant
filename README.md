@@ -1,18 +1,6 @@
 # Visteon-Assistant-Intelligence (VAI)
 Intelligent assistant designed to streamline access to relevant project information and extract specific parameters to optimize the implementation process in automated test cases for generic features.
 
-## Tools
-
-- **Testrack** (Simulation framework)
-- **Generic automated test cases** for Indicators and Warnings
-- **PGAdmin database**
-  - Centralized information.
-- **STSS**
-- **Messages** (Signals, Network, etc.)
-- **MDX** (Applicable VOPS for each program)
-- **Warnings and Indicators** (ID, JSON, STSS version)
-- **Generic configuration parameters** for input/output features
-
 ## Problems
 
 - Interpretation and analysis of feature implementation for automated test cases.
@@ -47,19 +35,25 @@ Create an intelligent assistant to streamline access to relevant project informa
 
 ## Phase II
 
-**Description**: Development of tools for the agent, integrating functionalities to execute external tools via MCP.
-
-**Figure**: Model Context Protocol (MCP): Connection to PGAdmin, etc., using `libpsycopg2`, `SQLAlchemy`, etc.
+**Description**: Development of tools for the agent.
 
 ---
 
 ## Phase III
 
-**Description**: Integration of the assistant on a remote server.
+**Description**: Integrating functionalities to execute external tools via MCP.
+
+**Figure**: Model Context Protocol (MCP): Connection to PGAdmin, etc., using `libpsycopg2`, `SQLAlchemy`, etc.
 
 ---
 
 ## Phase IV
+
+**Description**: Integration of the assistant on a remote server.
+
+---
+
+## Phase V
 
 **Description**: Integration of RAG*, connection to the remote server where RAG will be hosted.  
 (*) Reuse of RAG implementation by the DiApps team.
@@ -68,7 +62,7 @@ Create an intelligent assistant to streamline access to relevant project informa
 
 ---
 
-## Phase V
+## Phase VI
 
 **Description**: Development of a client interface integrated into the Testrack webpage for server access. Integrate chatbot interface on the server at `www.testrack.visteon.com`.
 

@@ -1,0 +1,115 @@
+
+## 🔍 1. OpenAI (GPT-4o and variants)
+
+**Integration with frameworks:**
+- Excellent compatibility with LangChain and LlamaIndex.
+- Official and continuous support in the documentation of both frameworks.
+- Plugins and specific tools for agents, RAG, and complex workflows.
+
+**Advantages:**
+- High quality of reasoning and text generation.
+- Context window of up to 200k tokens.
+- Advanced multimodality (text, image, audio in GPT-4o).
+- Very mature function calling features.
+- Robust ecosystem (ChatGPT, Copilot, enterprise API, plugins).
+
+**Disadvantages:**
+- Some advanced features are limited to subscriptions (ChatGPT Plus, Enterprise).
+- Closed model.
+- Higher costs compared to open-source models.
+
+**Ideal for:** complex tasks, creative generation, enterprise assistants.
+
+---
+
+## 🧠 2. Mistral (Mistral 7B, Mixtral, Small 3.1, etc.)
+
+**Integration with frameworks:**
+- Highly compatible with LangChain and LlamaIndex.
+- Models like Mixtral and Mistral Small 3.1 include native support for JSON and function calls, ideal for agents.
+- Widely used in Ollama and Hugging Face.
+
+**Advantages:**
+- Open source (Apache 2.0 license) and highly optimized.
+- Excellent performance in multilingual tasks, reasoning, and efficiency.
+- Very low cost or free in many environments.
+
+**Disadvantages:**
+- Less multimodal support.
+- Requires technical setup if used locally.
+- Not multimodal (although some new models accept images).
+
+**Ideal for:** developers, self-hosted projects, research.
+
+---
+
+## 🧩 3. Ollama (with models like LLaMA, Mistral, Gemma, etc.)
+
+**Integration with frameworks:**
+- Very good integration with LangChain and LlamaIndex when used as a local backend.
+- Ideal for quick testing and private development.
+
+**Advantages:**
+- Easy to use and configure locally, without the need for cloud connection.
+- Compatible with multiple models (LLaMA, Mistral, Gemma).
+- Total privacy when running locally.
+- Compatible with multiple open-source models.
+
+**Disadvantages:**
+- Limited by local hardware.
+- Not always updated with the latest models.
+- Not multimodal.
+
+**Ideal for:** privacy-conscious users, local developers.
+
+---
+
+## 🌐 4. Gemini (Google, Gemini 1.5 and 2.5 Pro, Flash)
+
+**Integration with frameworks:**
+- Integration in progress with LangChain and other frameworks, but not as mature as OpenAI.
+- Better integration with Google Cloud and Vertex AI.
+
+**Advantages:**
+- Very high response speed (up to 378 tokens/s).
+- Advanced multimodality and great integration with Google products.
+- Context window of up to 1 million tokens.
+
+**Disadvantages:**
+- Some versions still in beta or with limited access.
+- Less open ecosystem compared to OpenAI, considerably more closed.
+- Less community support in open-source frameworks.
+
+**Ideal for:** productivity, integration with Google Workspace, analysis of large documents.
+
+---
+
+## 🧭 5. Claude (Anthropic, Claude 3, 3.5, 4 Opus)
+
+**Integration with frameworks:**
+- Partial support in LangChain and LlamaIndex.
+- Better integration in enterprise environments with a focus on security and compliance.
+
+**Advantages:**
+- Focus on security and ethical alignment.
+- Very good performance in comprehension, ethical writing, and writing tasks.
+- Large context capacity (200k tokens).
+
+**Disadvantages:**
+- High price in premium versions.
+- Lower speed and flexibility than Gemini or GPT-4o.
+- Closed model.
+
+**Ideal for:** companies focused on responsible AI, deep analysis tasks.
+
+---
+
+## 📊 Comparison of Integration with Frameworks
+
+| Model     | Quality  | Speed | Price | Context | Multimodal | Open Source | LangChain | LlamaIndex | Function Calling |
+|-----------|----------|-------|-------|---------|------------|-------------|-----------|------------|------------------|
+| GPT-4o    | ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐ | 💲💲💲 | 200k    | ✅         | ❌           | ✅         | ✅          | ✅                |
+| Mistral   | ⭐⭐⭐⭐    | ⭐⭐⭐  | 💲    | 128k    | ❌- Partial | ✅           | ✅         | ✅          | ✅ (JSON)         |
+| Ollama    | ⭐⭐⭐     | ⭐⭐   | 💲    | Depends | ❌         | ✅           | ✅         | ✅          | ✅ (depends on the model) |
+| Gemini 2.5| ⭐⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐| 💲💲  | 1M      | ✅         | ❌           | Partial   | Partial     | ✅                |
+| Claude 4  | ⭐⭐⭐⭐    | ⭐⭐   | 💲💲💲| 200k    | ✅         | ❌           | Partial   | Partial     | ✅                |

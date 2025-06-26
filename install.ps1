@@ -28,7 +28,7 @@ Ensure-Command "code" 'winget install --id Microsoft.VisualStudioCode -e --sourc
 Ensure-Command "python" 'winget install --id Python.Python.3 -e --source winget'
 
 # Ruta del repositorio
-$repoUrl = "https://github.com/vmarti19/visteon-assistant-intelligence.git"
+$repoUrl = "https://github.com/vmarti19/testing-intelligence-assistant.git"
 $targetDir = "C:\tia"
 
 # Clonar el repositorio

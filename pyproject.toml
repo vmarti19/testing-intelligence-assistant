@@ -1,10 +1,12 @@
 
 [tool.poetry]
-name = "my-intelligent-assistant"
+name = "testing-intelligent-assistant"
 version = "0.1.0"
 description = "An intelligent assistant project"
 authors = ["vmarti19@visteon.com"]
 readme = "README.md"
+packages = [{ include = "assistant", from = "src" },{ include = "models", from = "src" }]
+
 
 [tool.poetry.dependencies]
 python = ">=3.12,<3.12.9"

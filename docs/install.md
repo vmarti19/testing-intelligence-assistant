@@ -7,13 +7,13 @@ The installation requires a `powershell` terminal with elevated admin rights. Th
 - Personal setup
 
 ```powershell
-irm https://github.com/vmarti19/testing-intelligence-assistant.git/install.ps1 | iex
+irm https://raw.githubusercontent.com/vmarti19/testing-intelligence-assistant/refs/heads/main/install.ps1 | iex
 ```
 
 - Test bench setup
 
 ```powershell
-irm https://github.com/vmarti19/testing-intelligence-assistant.git/install.ps1?bench=true | iex
+irm https://raw.githubusercontent.com/vmarti19/testing-intelligence-assistant/refs/heads/main/install.ps1?bench=true | iex
 ```
 
 _This install includes the CLI, developer tools, internal and external dependencies, the virtual environment and the repository._

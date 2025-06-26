@@ -1,5 +1,22 @@
-# 🧠 Visteon-Assistant-Intelligence (VAI)
+# 🧠 Testing-Intelligence-Assistant (TIA)
 Intelligent assistant designed to streamline access to relevant project information and extract specific parameters to optimize the implementation process in automated test cases for generic features.
+
+
+### [Install](docs/install.md) &nbsp;&middot;&nbsp; [Requirements](docs/requirements.md) &nbsp;&middot;&nbsp; [Source control](docs/git.md)
+
+
+# Documentation
+
+Code will be locally documented via docstrings and type hints; the linter will enforce this.
+Implementation details and design information will be tracked via this table of contents.
+
+|     | Section                               | Description                                                    |
+| --- | ---------------------------------     | -------------------------------------------------------------- |
+|     | __Backend__                           |                                                                |
+| 1.1 | [Install](docs/install.md)            | Setup instructions for machines and developerss                |
+| 1.2 | [Requirements](docs/requirements.md)  | Project dependencies                                           |
+| 1.3 | [Source control](docs/git.md)         | Git commands reference                                         |
+
 
 ## Problems
 
@@ -156,15 +173,3 @@ Create an intelligent assistant to streamline access to relevant project informa
 - Conduct usability and performance testing
 
 ---
-
-# Documentation
-
-Code will be locally documented via docstrings and type hints; the linter will enforce this.
-Implementation details and design information will be tracked via this table of contents.
-
-|     | Section                               | Description                                                    |
-| --- | ---------------------------------     | -------------------------------------------------------------- |
-|     | __Backend__                           |                                                                |
-| 1.1 | [Requirements](docs/requirements.md)  | Project dependencies                                           |
-| 1.2 | [Source control](docs/git.md)         | Git commands reference                                         |
-

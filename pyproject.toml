@@ -3,12 +3,126 @@
 name = "my-intelligent-assistant"
 version = "0.1.0"
 description = "An intelligent assistant project"
-authors = ["Your Name <youremail@example.com>"]
+authors = ["vmarti19@visteon.com"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.12"
+arduino-python3 = ">=0.6"
+behave = ">=1.2.7.dev6"
+bitarray = ">=3.1.1"
+can-isotp = ">=2.0.6"
+cantools = ">=40.0.0"
+colorama = ">=0.4.6"
+crcengine = ">=0.4.0.post1"
+httpx = ">=0.28.1"
+ipykernel = ">=6.29.5"
+jmespath = ">=1.0.1"
+loguru = ">=0.7.3"
+lxml = ">=5.3.0"
+nidaqmx = ">=1.0.2"
+numpy = ">=2.2.0"
+opencv-python = ">=4.10.0.84"
+psycopg = { version = ">=3.2.3", extras = ["binary", "pool"] }
+pyaudio = ">=0.2.14"
+pydantic = ">=2.10.4"
+pyserial = ">=3.5"
+python-can = ">=4.5.0"
+python-dotenv = ">=1.0.1"
+pyyaml = ">=6.0.2"
+ruff = ">=0.8.4"
+scapy = ">=2.6.1"
+seaborn = ">=0.13.2"
+udsoncan = ">=1.23.2"
+websockets = ">=14.1"
+windows-curses = ">=2.4.0"
 flake8 = "^3.9.2"
-llama_index = "^0.1.0"
+llama-cloud = "0.1.23"
+llama-cloud-services = "0.6.28"
+llama-index = "0.12.37"
+llama-index-agent-openai = "0.4.8"
+llama-index-cli = "0.4.1"
+llama-index-core = "0.12.40"
+llama-index-embeddings-ollama = "0.6.0"
+llama-index-embeddings-openai = "0.3.1"
+llama-index-indices-managed-llama-cloud = "0.7.3"
+llama-index-legacy = "0.9.48.post4"
+llama-index-llms-ollama = "0.5.6"
+llama-index-llms-openai = "0.3.44"
+llama-index-llms-openai-like = "0.3.5"
+llama-index-multi-modal-llms-openai = "0.4.3"
+llama-index-program-openai = "0.3.1"
+llama-index-question-gen-openai = "0.3.0"
+llama-index-readers-file = "0.4.8"
+llama-index-readers-llama-parse = "0.4.0"
+llama-index-readers-markitdown = "0.1.1"
+llama-index-tools-mcp = "0.2.1"
+llama-parse = "0.6.28"
+llamaindex-py-client = "0.1.19"
+jupyter_client = "8.6.2"
+jupyter_core = "5.7.2"
+Markdown = "3.7"
+openai = "1.82.0"
+ollama = "0.4.7"
+mcp = "1.9.2"
+anyio = "4.9.0"
+
+[tool.uv.sources]
+prj = { workspace = true }
+
+[tool.uv.workspace]
+members = ["../prj"]
+
+[tool.ruff.lint]
+preview = true
+extend-select = [
+    "A",
+    "ANN",
+    "ARG",
+    "B",
+    "C4",
+    "COM",
+    "D",
+    "E",
+    "EM",
+    "ERA",
+    "F",
+    "FA",
+    "FLY",
+    "G",
+    "I",
+    "ISC",
+    "N",
+    "PERF",
+    "PGH",
+    "PIE",
+    "PL",
+    "PTH",
+    "Q",
+    "RET",
+    "RUF",
+    "SIM",
+    "SLF",
+    "T20",
+    "TID",
+    "UP",
+    "W",
+]
+ignore = ["E501", "D415", "ANN401", "D205", "D212", "PLR2004", "E731", "D103", "ANN201"]
+
+[tool.ruff.lint.per-file-ignores]
+"__init__.py" = ["E402", "E401", "F401", "SLF001", "A003", "ANN204"]
+
+[tool.ruff.lint.flake8-quotes]
+inline-quotes = "single"
+multiline-quotes = "single"
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.format]
+quote-style = "single"
+skip-magic-trailing-comma = true
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

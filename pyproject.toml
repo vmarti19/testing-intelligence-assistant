@@ -7,7 +7,7 @@ authors = ["vmarti19@visteon.com"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.12"
+python = ">=3.12,<3.12.9"
 arduino-python3 = ">=0.6"
 behave = ">=1.2.7.dev6"
 bitarray = ">=3.1.1"

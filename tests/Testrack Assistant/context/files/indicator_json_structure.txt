@@ -1,0 +1,35 @@
+{
+    "diag": [list of strings],
+    "type": string,
+    "color": string,
+    "generic": {
+        "volt": [list of strings],
+        "perso": {
+            "ecu": string,
+            "type": string,
+            "feat_no": int,
+            "feat_config": int
+        },
+        "config": logic expression string
+    },
+    "chime_id": int,
+    "bulbcheck": string,
+    "indicator": [
+        {
+        "name": string,
+        "value": int
+        }
+    ],
+    "icon_config": logic expression string,
+    "etm_bulbcheck": bool,
+    "logic_activation": [
+        {
+        "pwr": [list of strings],
+        "type": string,
+        "logic": {
+            "logic": logic expression string,
+            "override": {string : [list of int]}}
+        },
+    ],
+    "warning_process_mask": string
+}

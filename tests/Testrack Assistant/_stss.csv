@@ -1,0 +1,724 @@
+"id","name","version","variant"
+"2d09dae4-93bf-4f3c-887a-8b8f08527c78","Engine Coolant Temperature Gauge - PHEV_FHEV",1.2,"{p702_lx_my23,p703_raptor_my26_fnv2_1,p703_j73_my26_fnv2_1}"
+"92c7a8aa-0335-493a-8782-1220dc07b583","Low SOC Alert Control Function",1,"{s28_v710_my23}"
+"cbb3ab78-d45d-4bd7-ace2-6115c65bd13d","Active Front Steering RTT and Messages ",3,NULL
+"94649279-283c-48f9-96b0-e298927493db","Active Front Steering RTT and Messages ",2.2,NULL
+"6b3a5efd-9628-4746-ac03-057640908cec","AHUD Basic Settings Control Function",2.4,NULL
+"4eb72baa-3828-4de2-af68-e9327557d46f","AHUD Custom Settings Control Function",2.1,NULL
+"1d1a7107-4c19-42a2-b3fb-686ca5135911","Airbag Telltale",2,NULL
+"0d911f04-cd83-4e1e-9019-7f480c478783","Airbag-Secondary-Warning-Chime",1,NULL
+"8977edfc-88e9-4830-ba14-66b04edc8d60","Audio Generated DNA Chimes- Cluster Chime Arbitrator",7.4,NULL
+"e78ae2a6-9f4f-4121-b7fe-ad5e4a9db347","Audio Generated DNA Chimes- Cluster Chime Arbitrator",7.2,NULL
+"1649c0da-32b2-4b67-84bd-379e06ce9639","Auto Hitch Chime",1,NULL
+"d376b120-a3a2-46fa-901a-a53b0a99253c","Automatic Engine Shutdown Control Function Warning Messages",2.1,NULL
+"39a466c5-fedc-46eb-ad81-4cae54fd01c1","BEV_PHEV_FHEV Ready Telltale",1.3,NULL
+"fe0d766b-d15d-4f7e-9b17-deea7fe943fe","Status Screen IoD Display",1.5,"{u725_my23}"
+"8a326091-cfc0-4914-9d28-d071bfac08ce","Brake Coach Gauge - xEV",5.1,NULL
+"5e2adfa4-3550-46a1-b5f1-adafd73ba315","Brake Telltale",5,NULL
+"8290b09f-c87a-44fa-aa19-07c618ee0bea","Bulb Prove Out",2.1,NULL
+"a7be7f27-6aba-41fc-a916-61f7021caf62","Bulb Prove Out",2,NULL
+"7d8bfc5a-88d0-47f9-9e3c-f93d1caf2bfe","Charge Cord Connected RTT BEV_PHEV - All Markets Including China",2.2,NULL
+"85c9b915-d142-418b-859e-548ad525cf72","Considerate Prompt Control Function",1.5,NULL
+"eec1b3b8-b7e5-43c5-b245-5042123e0277","Considerate Prompt Control Function",1.3,NULL
+"24abf35b-a0cf-4a35-b8b6-a85069c6c7cf","Control Mirror Arbitrator",1.1,NULL
+"fb0f34be-0f99-4a93-8c43-1f6a2960d79c","Data Analytics",2,NULL
+"fe0bb5d1-0041-46cd-a439-638cd40b5ee6","Day-Night Palette",1.3,NULL
+"9527d6b6-6ac6-4fe6-8236-2796d7a55aff","Diesel Exhaust Fluid Level and System Fault Warnings with RTTFixed TT North American Function Only",3.2,NULL
+"45ea748f-afb7-4b8e-8dad-1ff4db145c06","Diesel Exhaust Overtemp Warning Chime",1.1,NULL
+"9dc18058-ceae-4b28-b982-5beb3d9b4838","Diesel Exhaust Overtemp Warning Chime",1,NULL
+"9ed3e57f-2ca5-4d2b-b3bf-b556fec52f75","Dimming_Interior_Illumination_Control_Mirror",3,NULL
+"f6ced6f1-336a-4888-883b-b43eb404420f","Driver Alert System Control Function",4,NULL
+"420e043a-9322-4c5b-828a-fb09a97e2bbe","E100 Wait to Start Telltale",1.4,NULL
+"84b143b8-c3b9-4d8a-8cb0-a2e563f95044","E100 Wait to Start Telltale",1.3,NULL
+"3117f536-b385-4eba-9d8f-cdbc30c8b6e3","Electronic Latch System Lock and Unlock Chimes",2.2,NULL
+"fba68efb-2e04-425b-a6b8-79c95f29ebd2","Elocker RTT",1.1,NULL
+"9458eb0d-40ed-4197-bc85-c349b811d790","Engine Air Filter Minder",1,NULL
+"8a136034-1f74-4680-b38f-fd462386e05a","Chime Menu Control Function",4,"{}"
+"bf2ff860-a36e-4a34-ba20-268476c286c7","Enhanced Memory IPC SPSS",1.4,NULL
+"275a6b4f-dd24-4f2d-8b9f-1ce0e61196c0","ETM",3,NULL
+"f3f58662-d9c0-4553-a61b-de05c162965f","ETM for M3 IPC",3,NULL
+"31f22f5b-2962-4cb1-a126-2d4b49b3eb7c","Auto Stop Start Telltale or Fixed RTT",2.1,"{p702_lx,p702_l1}"
+"35d10a38-12c9-4c93-bc9d-5390eff35fa6","AutoUnlock Control Function",3,"{cx482_mca_my23,s28_v710_my23,s28_p758_my25,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24}"
+"de4d9d7a-d967-4364-bca7-0752bf3f14f0","4x2 Fixed Dedicated RTT ",2.1,"{u553_lx,u554_lx,p703_raptor,p703_base,p703_u704,p703_j73,u725_my22_5,p708_rcb,u725_my23,rcb_p702_base_my24,rcb_p702_raptor_my24}"
+"f46fcc70-1cc3-430e-a650-2e42c313e040","4x4 High Fixed_Dedicated RTT ",1.3,"{u553_lx,p703_raptor,p703_base,p703_u704,p703_j73,u725_my22_5,p708_rcb,u725_my23,rcb_p702_base_my24,rcb_p702_raptor_my24,cx482_mca_my23}"
+"12be2736-2019-4380-818f-af27d1a11f89","AutoHighBeam Control Function",2.1,"{p702_bev}"
+"b35456a6-9915-4cc0-964d-d91abcc94edb","Supplementary Gauge Display Control Function",1.0,"{cx482_mca_my23,s28_v710_my23}"
+"1351efe8-4fa4-4bfc-b397-86b04396a322","Boost Vacuum Virtual Gauge Display",1.5,"{p702_raptor,p702_raptor_my22}"
+"e16a2cd9-adc8-418e-80ac-f03ad4f4c352","Brake Coach Gauge - xEV",4,"{p702_bev}"
+"20987550-14cc-474f-8c40-eab6cd09cb72","AdvanceTrac Control Function",4.1,"{}"
+"51a59149-247e-414e-ab4e-2ef39e8e2ffc","Lane Assist Control Function",10.0,"{s28_v710_my23,p703_base,p703_j73,p708_rcb,cx482_mca_my23,p703_u704_my23b}"
+"2116cfdd-0d79-4836-8222-d7d149963b3d","Airbag Telltale",2.1,"{p703_u704,p703_base,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,u553_lx,sx2_cx482,p703_base_my26,p703_base_my26_fnv2_1,p703_j73_my26,p703_j73_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26,rcb_v710_b2_my24}"
+"a6d80eab-6b22-4f5e-b89a-19f3fb9e7f1c","Diesel Wait to Start Telltale",2.1,"{p703_base,p708_l1,p708_rcb,p708_my24}"
+"71338565-0d29-4103-8f5c-8b8baa02e4dd","Engine Coolant Temperature Gauge 2.3 + PHEV_FHEV 1.4",2.3,"{p708_rcb,p703_u704,s650_rcb,u553_lx,cx482_mca_my23,u554_lx,p703_j73_my26_fnv2_1}"
+"8a726372-db48-4f7e-803b-94b7bca25cfd","Engine Temperature Indication RTT (Coolant Temp)",5.5,"{p708_rcb}"
+"c22dc9ac-0841-4a96-9567-c379d103c983","ESC Telltale",1.2,"{p708_l1,p708_my24,p708_rcb,sx2_cx482,cx430mca_sx2_my25}"
+"a0498b5f-c56f-45ce-b373-98be4e8d1478","Charge Cord Connected RTT BEV_PHEV - All Markets Including China",2.3,"{sx2_cx482}"
+"94329100-c2ac-4164-9045-80ab3ea5dcb1","4x2 Fixed Dedicated RTT ",2,"{p702_l1_my26}"
+"d5312b3d-9355-48b4-a655-8957befaf1cd","Forward Collision Warning Control Function",5,NULL
+"95174a15-94a0-4c27-86a0-189fbaceed8c","Front Park Aid and Rear Park Aid Warning Chime",3.1,NULL
+"677a449d-7b41-4547-a67b-724047f05b67","Frost Indication RTT",6,NULL
+"11d31b1f-b3df-4be6-a45a-33f26a6c1357","GCC Overspeed Warning Telltale, Fixed Dedicated RTT, and Chime",4.1,NULL
+"7253049c-6bd0-4d99-9b98-8ef1c8eec5ca","Engine Temperature RTT",5,"{p702_l1_my26}"
+"bfc36346-2ae0-4856-96aa-1005fdd2fb05","4WD Lock RTT and Warnings",2.3,"{cx430mca_sx2_my25}"
+"2ac5f2f8-bada-4b2b-98fa-403174670781","Diesel Exhaust Fluid (DEF) Level Virtual Gauge",1,"{p702_lx_my23}"
+"5753b401-856e-4af8-9376-8ee395829f26","4x4 Auto Fixed_Dedicated RTT",1.3,"{p708_rcb,u553_lx}"
+"fbbd175b-7d0e-4811-9a53-cc998217ef46","EV Coaching Gauge - PHEV_FHEV",1.1,"{p702_lx_my23}"
+"9f4b0c46-0aa0-4d1c-9c00-aab10c383f2f","Electronic Stability Control (ESC) Telltale",1.1,"{sx2_cx482,p708_l1,p708_my24,p708_rcb,cx430mca_sx2_my25,u553_lx}"
+"60809d88-5ec8-46b7-b384-bf6d8a00ebdf","Digital Gauges Interface",2.3,"{p703_j73,p708_rcb,rcb_p702_base_my24,rcb_p702_raptor_my24,cx430mca_sx2_my25}"
+"3cd4cf41-b8cb-461b-8aeb-4322776e8b9a","ESC Off Telltale",2.1,"{p702_l1_my26}"
+"8bb02046-c9f5-4b14-8644-6fd1df0e9381","4x4 Auto Fixed_Dedicated RTT",1.2,"{p702_l1_my26}"
+"03b58f6a-6977-401e-98b2-efbecda1cbd4","Battery Charge RTT and Warnings",2.4,"{p702_l1_my26}"
+"00a6c857-d83b-4fcd-aff4-ce2541717894","Door Ajar Chime - For Door, Liftgate, Liftgate-Liftglass RTT; Trunk Ajar RTT; and Message Center Message",6,"{p702_l1_my26}"
+"01714036-4ff9-456e-bbf7-42fb4c4801af","Approach Detection Control Function",2,"{rcb_v710_b2_my24,rcb_j74_my24,v769_rcb_my24}"
+"5bd325f0-e109-49f8-8d05-0e4e8fabb9d3","Elocker RTT",1.2,"{p708_l1,p702_l1_my26}"
+"df408c9f-762d-40fd-9f77-cbecb24499f5","Selectable Drive Mode Transition Chime Control Function",1.0,"{s650_rcb,s650_my24}"
+"8ad0bbb6-ae26-47f5-a025-a3a99e46b50c","Diesel Particulate Filter Load Inf_Manual Regen Function",2.3,"{sx2_c519_gsr_my24}"
+"be407a01-6356-4018-9bd9-3d3421a900d7","Boost Vacuum Virtual Gauge Display",2.0,"{p703_raptor,u725_my22_5,u725_my23,p703_u704,s650_rcb,rcb_p702_raptor_my24,u725_my25_b,rcb_p702_raptor_my25,p703_base_my26_fnv2_1}"
+"1495aec2-e199-40e0-9761-4de69ae4a4b9","Gear Selection Function with Primary ePRNDL",8.2,NULL
+"c1f2ff9c-d517-4862-bb46-d9324d3bcc2a","Gear Selection Function with primary ePRNDL",8.1,NULL
+"cd9bd012-1d0d-4784-a0b4-f86832422f6f","Gear Selection Function with primary ePRNDL and Range Select",6.5,NULL
+"e144cb81-2938-4a16-996e-8c212b8c4163","Global Window Control Function",4,NULL
+"11dcc465-4786-4627-b27a-3f817a0b1dd8","Hazard RTT and Warning xHEV, BEV - All Markets Except China",3,NULL
+"7e9919b6-da21-4ee8-8b60-b2ebb2687785","Hazard_ Battery Disconnected_HEVSys Fault_BatteryCharging RTTs_WarningMessages_xHEV_BEV",4.5,NULL
+"cb3a00a5-6cf9-4599-a4c0-5c276307a2f7","HDC Switch or Trail Control Switch IO",1,NULL
+"338ec227-47c1-4024-b99e-eb012b2b06df","Headlamps On Reminder Chime",1.2,NULL
+"73582c49-3b6e-42e1-8c4e-2f8b40b27519","Headlamps On Reminder Chime",1,NULL
+"13d82383-cb78-4bbb-9f88-14e7aae97f27","Health Management",1,NULL
+"9e2d45ac-1461-495a-aff2-bf1410b311ff","High Beam Indication Telltale",3.1,"{u553_lx,u554_lx,p703_j73,p708_rcb,cx482_mca_my23,sx2_cx482,s650_rcb,p703_base_my26,p703_base_my26_fnv2_1,p703_j73_my26,p703_j73_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26}"
+"58223b6e-c6b1-49bf-b2b1-fda96eabfda9","Home Safe Light Chime",1,NULL
+"e0b99e26-7f05-4edb-abf6-ebe36b0c453c","Ignition_Engine On Reminder Chime and Message_Auto_ManTransmission",2.1,NULL
+"b48b2272-00d0-45e0-8709-21a46d5f0c3e","Infotainment Control Mirror",2,NULL
+"9081da71-564f-45dd-ac91-fb3cb16d1df2","Key-In-Ignition Warning Chime",1.2,NULL
+"ee8f91e4-815b-4478-a1c5-9ed886e83139","Lane Assist Control Function",9,NULL
+"e81466a0-4616-42d4-8211-d8f677830f2c","Lane Assist Control Function",8,NULL
+"69cf6fdc-fccc-4ec7-b708-0bae0ef46849","One Two Stage Unlocking",3,NULL
+"d13f5938-8467-4d6d-8cf4-a97b8f04fd33","Left Turn_Right Turn_Hazard Signal Telltale",3.2,"{u553_lx,p703_base,p703_u704,p708_rcb,p708_l1,p708_my24,sx2_cx482,cx430mca_sx2_my25}"
+"83ad9685-c107-403a-840a-f5867cbfd428","Locking Feedback Control Function",2,NULL
+"c3a61533-ed07-4553-9a85-fd0b5d269f41","Low Fuel Reminder RTT or Telltale - IPC or PCM Algorithm",3,NULL
+"5918bc6b-144f-44ef-90ab-1d167f69c543","Low Fuel Reminder RTT or Telltale - IPC or PCM Algorithm",2.2,NULL
+"bec0feb9-cb01-4c06-af81-c4c8eb63f6f2","Low Washer Fluid RTT",2.1,NULL
+"ad14b331-9e9c-4835-a028-fa3a77759ba1","Low Washer Fluid RTT and Warning",4.1,NULL
+"f6f03cb6-5e62-4809-bfcd-35815c39590e","Message_Center_Display_Interface_With_Setup_and_Warnings_In_Centerstack",1.2,NULL
+"0a284afe-e3cc-419a-9336-2cb42757e6b5","Message-Center-Warning-Chime",1.1,NULL
+"a1919a5e-b8cb-48a5-859a-7fb9b40ea49d","Mirrors - Autofold and Reverse Tilt Control Function",2,NULL
+"1bd4f6bf-81b0-47ba-8fa5-c780bad8525e","MyKey Gen II Control Function",9,NULL
+"5d4756f3-5109-49c2-9400-815952998083","MyKey Gen II Control Function",8.4,NULL
+"68ab1ece-750e-4b58-baa1-d8ed64250993","New Joy of Driving Animation Display",1.3,NULL
+"69d57398-cda9-43eb-bfb8-606ac23d1836","Off Road  Level 1  Level 2 Screens",6.2,NULL
+"5b4fd6be-e253-4e77-aabc-7ce678b31806","Oil Change Minder 10K and Diesel",1.3,NULL
+"ff394513-9d9a-49f7-842d-d2851b65b237","Oil Change Minder Distance_Time Displayed 2019_5 V36x MCA Vehicle Maintenance Monitor  –",1,NULL
+"fa303634-416c-4706-925f-748dd1e08538","MIL Telltale",1.1,"{rcb_v710_b2_my24,rcb_bx726_mca_my24}"
+"6c6461a9-521c-4424-a988-19026785c626","Operational Modes and Voltage Range Strategies",9.2,NULL
+"50365964-d8a1-4510-8c5c-ffa5a3bc80e6","Operational Modes and Voltage Range Strategies",9,NULL
+"a64bb490-997e-42fe-b8ff-0d8d96b2028c","Operational Modes and Voltage Range Strategies",7,NULL
+"30b372f4-3692-4184-a330-1f30729a40ff","Operational Modes and Voltage Range Strategies",6,NULL
+"f09bc8a3-a69b-4670-999e-9fd4d34f3509","Outside Air Temp Function",4,NULL
+"befa043f-508a-4c8a-a5a4-1ad88b49e609","Park Brake Warning Chime",1.2,NULL
+"5f2a0c03-38df-4c39-a9b8-763273d43d25","Park Brake Warning Chime",1.1,NULL
+"f0df15b8-7a57-4d7e-aa01-fd63330d002a","Park Detect Switch",5,NULL
+"1478ee55-2f7b-44d3-9516-53790ae87b68","Park Detect Switch and ParkDetect_Stat",5.3,NULL
+"8b7daedf-63af-4e7e-bb2e-073bd7267e71","Perimeter Alarm Reduced Control Function",6,NULL
+"c6280021-8a9b-4584-8103-13916e47f7e8","Perimeter Alarm Warning Chime",1.2,NULL
+"3285a730-2dea-45a3-8047-0d4fc38132d5","Personalization Display Setup Overview",4,NULL
+"289c54ea-2bba-4887-a03f-d88306025044","Power Liftgate or Decklid Control Function",4,NULL
+"2c162ebe-da08-4e47-b2a4-bf9bf05d353e","Powertrain Malfunction RTT with CHECK 4x4 Message",11.2,NULL
+"3d6064db-61d6-4f04-85be-707cb533545d","Warning - PRNDL Not In Park Specific to U725 Bronco",3.0,"{}"
+"13d3cdf7-b5c0-4c92-b474-219c9eea2656","Oil Temperature Gauge Display",1.3,"{p702_raptor}"
+"43a5c0b4-b1c4-48cd-8afb-96aa6c007072","Front Fog Telltale",1.3,"{u553_lx,p703_u704,p708_rcb,sx2_cx482,p708_l1,cx430mca_sx2_my25}"
+"f7816884-90df-4c22-b225-2f49a336bdf7","Evasive Steering Assist Control Function",2,"{c727}"
+"140ef035-57c3-4bd8-a325-5d067408f211","Perimeter Alarm Reduced Control Function",6.4,"{u725_my22_5}"
+"28162d40-316b-494d-96cf-3f74abfcb414","Reverse Warning Chime",2.1,NULL
+"c4b26751-91b7-43f6-8ed0-aa9a494df244","S Family Message Center 5 Button Interface",3,NULL
+"eb1d737f-42dc-472a-97b9-a5e9a4792f8b","S Family Message Center with Quick Action Menu",4.7,NULL
+"d6bd5686-93ff-4bb6-926b-388dd6e70ff2","S Family Message Center with Quick Action Menu",4.1,NULL
+"ac271fa7-0d24-49fd-8212-689578d6c41a","Seatbelt BeltminderTelltale IPC Controlled",11.2,NULL
+"6f229575-c4b9-40c5-9895-d09b8c939c95","Seatbelt-Beltminder-Chime",1.1,NULL
+"8d676067-ce85-4427-a71c-9e35401a2e90","Ready Telltale - BEV_xHEV Including China",2.1,"{sx2_cx482}"
+"cf022643-c5aa-4c5a-be0e-fa967c04f720","Park Lock Control Function",10,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"9feebf54-7b3e-4256-9b31-0df58001013e","Malfunction Indicator Lamp (MIL) Telltale",1.1,"{p703_u704,p708_l1,p708_rcb,p708_my24,sx2_cx482,cx430mca_sx2_my25,u553_lx}"
+"fabf4bb3-b880-47d1-8a45-35498670fc35","Blind Spot Monitor and BTT with Cross Traffic Alert",14.0,"{p703_base_my26}"
+"da76fd9a-2a0c-4624-8251-7a8f1d004710","Odometer",5.3,"{rcb_bx726_bev_my24,cx430mca_sx2_my25}"
+"649a7da2-a62f-495a-aeb1-ded6d668047f","LED Low Beam Malfunction Telltale",2.1,"{p703_u704,sx2_cx482,cx430mca_sx2_my25,u553_lx,rcb_bx726_mca_my24}"
+"3b9796a9-2a55-440e-8d38-d3e56d043a97","Warning – Oil Maintenance – PHEV",1.2,"{p703_base_my26_fnv2_1}"
+"fba3cf62-000b-48f1-87ef-2c329e53ce4b","Power Liftgate-Decklid-Sliding Door Warning Chime and Warning",2.1,"{rcb_v710_b2_my24}"
+"8dc406b9-bd26-4ac6-95c4-f3c84e06e966","Engine Rev Matching Control Function",2.1,"{s650_rcb,u725_my25_b}"
+"cea8a5b2-38b8-426b-8eaf-47db5a5bd233","Local Hazard Information Display Function",1.1,"{p703_base,rcb_v710_b2_my24}"
+"7522bfac-3beb-4253-912b-77caffb499ae","Motor Temperature Gauge - BEV",2.0,"{s28_v710_my23,rcb_v710_b2_my24,rcb_v769_bev,rcb_j74_my24,rcb_bx726_mca_my24}"
+"73db0278-2a35-4dc2-95da-403211a2ec11","Park Aid Control Function - Rear and Front",12.1,"{cx430mca_sx2_my25,rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24}"
+"4ebb4e80-7ddb-440b-9bce-4247c2dfeb84","Left Turn_Right Turn_Hazard Signal Telltale",3.1,"{p702_l1_my26}"
+"690a50e1-d718-4d06-865b-8ed784a9d9ba","Rear Fog Telltale",2,"{p702_l1_my26}"
+"19874a1a-4b23-42f4-9e88-a369e9efa00a","Low Oil Pressure RTT, Fixed Telltale, & Warning Combined GAS/HEV/Diesel Applications",5.2,"{p703_base_my26_fnv2_1}"
+"052ae850-6932-4cf4-9840-a8525c2b72b2","Airbag Telltale",4.0,"{rcb_v710_b2_my26,rcb_j74_my26}"
+"2409ba21-55dd-4251-a47c-bef7a058fb53","Selectable Drive Mode Control Function",1.1,NULL
+"d4cfc412-71b1-490a-b275-e5c7d1afcc1a","Selectable Drive Mode Control Function",1.7,NULL
+"e28f8ea2-bbf0-4ed7-b767-b8a7ecc33f44","Service Advancetrac Warning Chime and Message",2,NULL
+"d7ef5878-fced-4471-9bd2-6423120f6c61","Shift By Wire Control Function",9.1,NULL
+"f3c96a7b-0f7e-4c0c-b687-9cc8401037e8","Shift by Wire Control Function",9,NULL
+"fbeeecc4-544a-45c8-b082-3e001afabdfd","Shift by Wire Control Function",8.1,NULL
+"a75fdef9-6643-4d2f-a7c5-f02a6cac5729","Start-Shutdown Screen - PHEV-FHEV",1.4,NULL
+"775be4cb-ec35-44e2-9c91-c74eb44ed410","Steering Wheel Switch - 4-Way with Rocker Hotkeys",3.1,NULL
+"e7e05bd3-b338-46f1-bcea-19446b78b439","Steering Wheel Switch Keep Alive Control Function",1.2,NULL
+"39c6d2f2-d1e9-4bf8-9b64-1e78af59e7c4","Tachometer View Control Function",1,NULL
+"3322056e-304e-4f62-b2c8-31063b02ab1d","TC-ESC-RSC Switch",3.1,NULL
+"54d4124b-7537-49b0-8581-99ab0db14f3a","Low Washer Fluid RTT and Warning",4.2,"{rcb_v710_b2_my24,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26}"
+"cb2e30b6-9cc2-49b7-b3d6-b446b8684463","Tow Haul Auto Control Function with Fixed / Dedicated RTT",4.1,NULL
+"9acde47c-2547-4e3d-bf9c-e32da7c952e2","TPMS__with_EUreset_PressureByLocation_PlacardDsply_DRW",11,NULL
+"fbfc3e75-d55e-4be4-8ad5-606ff40f0161","TPMS__with_EUreset_PressureByLocation_PlacardDsply_DRW",10,NULL
+"43a7aea6-3c0b-4153-8ca9-b17c9b432e49","TPMS__with_EUreset_PressureByLocation_PlacardDsply_DRW",9.1,NULL
+"86598391-4bce-4bf7-81bf-499441aa0b1e","Trailer Information IoD with Centerstack Setup",1,NULL
+"5446f9cf-b426-4b8a-aa65-3f21b21fed33","Trailer Lighting Status Control Function",1.1,NULL
+"0c1ff2e4-fab6-4a99-b933-2d3e3a5da8a0","Trailer TPMS Settings_OnDemandScreens_Warnings",4,NULL
+"ebd786bb-d170-4c19-b274-f92eacbe8467","Traffic Sign Recognition Control Function 2.0",2.0,"{rcb_p702_base_my24,rcb_p702_raptor_my24}"
+"a91081fc-edd9-4d0e-b844-71bd712acf59","S Family Message Center 5 Button Interface",3.2,"{p702_l1_my26}"
+"f81c5e43-ee14-4a16-98b2-40aeaebc0eb1","Trip IOD In SYNC CAN Signals",1.1,NULL
+"19d31a73-608d-459a-b091-837b0dbd6b61","Trip Summary and Drive Cycle (“This Trip”) Function - PHEV_FHEV",3.1,NULL
+"3e631ae5-a6b2-4880-8b01-b799fb41474f","Turn Signal Minder Chime",1.1,NULL
+"dfe04f58-eb07-4fae-b9c7-fcc3b3635803","Vehicle Steering Angle, Pitch and Roll IoD Display",1.1,NULL
+"6f17f402-5162-4d7f-a31f-e27f6b39a0f1","Warning -  Telematics - Crew Chief Monitor",1,NULL
+"cf470a92-dfb6-44f9-bc60-39074b53801c","Warning - 1-Pedal Drive - BEV",1.3,NULL
+"2dffe254-3345-4e94-ad36-65de25db3ee5","Warning - 1-Pedal Drive - BEV",1,NULL
+"cfcc8afe-f647-4b27-b8b5-6e9435e085fb","Warning - 4x4 Shift in Progress and 4x4 Low Shifting Instructions",4,NULL
+"45017d2c-f5f5-45e3-b3f9-d8156ad79263","Warning - 4x4 Shift in Progress and 4x4 Low Shifting Instructions",3.2,NULL
+"39465449-e329-4a3e-8d34-10c019d620e5","Warning - Adaptive Cruise Control",1,NULL
+"022e4952-75ff-44ad-baf3-7363b38ac202","Warning - Adaptive Headlamps",4.1,NULL
+"3f9acb4f-791a-41f4-b3f1-986682204c61","Warning - Advancetrac Ask On Stuck Turn TCS Off",2,NULL
+"1102cf5d-c4f3-43e9-bcaf-067b7e89bf8e","Warning - Approaching Vehicle Audible System ",1.2,NULL
+"e4a45186-2eb1-4840-a7d4-bd590c90e3df","Warning - Auto Stop_Start",4.1,NULL
+"ba3bfc37-dbae-4f11-bb56-ecd2b4d573a7","Warning - Autopark",7,NULL
+"4659a7f5-4896-4879-917e-c45e470588f9","Warning - AWD_4x4_OFF",4.1,NULL
+"031a235d-acdc-4d4f-966f-781e351daa10","Warning - AWD_4x4_OFF",3,NULL
+"4615f0c0-4f07-44b0-9fd9-019d4d6cfc49","Warning - Axle Over Temperature Warning",1.2,NULL
+"2cb5af62-36bb-4a42-9e72-9128f0e3a47f","Warning - Brake Over Accelerator",1,NULL
+"973e23e5-59f8-4bca-93cb-c8edfc30f26b","Warning - Brake System",3,NULL
+"03d4bbe6-42c0-4067-9f49-45565e2651c9","Warning - Buckle Up",2.3,NULL
+"da3f7d00-952a-4fda-b2cc-df481eb0267b","Warning - CCD Drive Control Malfunction Warning",1.1,NULL
+"963c917e-64d7-4504-bfd5-85f3a30f1a99","Remote Start Control Function",4,"{cx482_mca_my23,s28_v710_my23,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24}"
+"df1e12bf-bb3f-46cb-b2ea-ca04ede66258","Warning - Charge Port Door Ajar - BEV_PHEV",1,NULL
+"4a51318d-f3f6-43bf-a89a-7e347120767a","Warning - Charge Station Fault",1,NULL
+"31257ace-1b43-4336-b3a7-54fdd6cd4836","Warning - Check Fuel Fill Inlet",1,NULL
+"2e143a63-43fb-4399-b721-fc8019e659a8","Warning - Check Locking Differential (Elocker)",2.2,NULL
+"f5bbf982-b9f1-4a03-b2e6-019857ca9c80","Warning - Check Locking Differential (Elocker)",2.1,NULL
+"2504ff46-416f-45c5-9ab4-fac8a47ddd61","Warning - Diesel - Engine Warming Please Wait and Ok to Drive",2.3,NULL
+"6a188141-1312-4cf1-b8d8-0d20c60e3545","Airbag Telltale",2.2,"{p702_l1_my26}"
+"f7ceec98-69f1-47cb-a7ad-9c558e3ad7c1","Selectable Drive Mode Control Function",1.12,"{c727}"
+"5eb8f327-b70c-42cf-bc80-787c9a2d7972","Speedometer Gauge - Dual Digital Output",1,"{p702_bev,p703_j73}"
+"ebf0b4f4-3b64-431d-ae7c-6177cb947ae9","TPMS Telltale",2,"{p702_l1_my26}"
+"862d3234-d93b-4170-b0cf-7b39f9864454","Warning - Adaptive Headlamps",4,NULL
+"b708a724-09d1-494c-8ed4-f9af86c0e0fa","Range Display and Range Stack HMI - BEV",1,"{p702_bev}"
+"be55ddd8-9929-4896-a2d2-31ae8389cc8a","Warning - Diesel - Low Fuel Pressure",1.3,NULL
+"ac97af73-695b-4a4d-8bdf-9bf09ae2765d","Warning - Diesel - Low Fuel Pressure",1.1,NULL
+"db6a7963-4e19-4ec1-9036-141afa8f25b3","Warning - Diesel - Low Oil Level for 30k Oil Minder",1.1,NULL
+"a18f6cdb-8ce4-4265-9952-09fa35726248","Warning - Diesel Exhaust Overtemp",1,NULL
+"2e127cdc-4d94-42a3-a355-00e13347bdbe","Warning - Diesel Exhaust Overtemp ",1.1,NULL
+"7840721e-1b25-4de4-9c95-00dee6ac7e5e","Warning - Diesel Reduced Engine Power",1.1,NULL
+"6504afed-f4fc-45c7-a4f3-c482d827cbb8","Warning - Diesel Run Dry (Fuel Tank Empty Engine will Shut of in xx Seconds)",1.2,NULL
+"bb7a6b31-56d7-4937-bf44-5b5945966075","Warning - eCall System Fault",1,NULL
+"0bb374f1-76ff-4308-aceb-bd89d781ec96","Warning - Electric Park Brake",2.7,NULL
+"29823fed-e21a-4151-8c24-f035ffdef4f5","Warning - Electric Park Brake",2.5,NULL
+"4ce8f34a-6e7d-4998-b430-b74f5b41f914","Warning - Ford Telematics TFLE - Crew Chief Monitor",1.1,NULL
+"ceb71f09-6c43-46e2-8568-c94f277c9ac4","Wait to Start Telltale",2,"{p702_l1_my26}"
+"2df99a5d-7d7b-4f28-8cb7-6505a9d2553f","Warning - Front Camera Malfunction",1.1,NULL
+"4aae5ee6-f827-4197-b300-0f497f870d9d","Turbo Boost Gauge",1.5,"{p703_base,p703_u704,p702_lx_my23}"
+"f11165d8-01de-496d-9f55-73c3ee11ec6c","Selectable Drive Mode Control Function",1.13,"{p702_lx_my23}"
+"c63fb73c-ab18-41da-9eb9-bdfcb7d3f677","Warning - AWD_4x4 OFF",5,"{cx430mca_sx2_my25,rcb_p702_base_my25,p703_base_my26}"
+"9436ae1e-a8d5-48e6-8030-b3628049dff4","Warning - Change AWD_4WD Power Transfer Unit Lube",1.3,"{cx430mca_sx2_my25}"
+"75c36ead-920a-4316-9693-e9dec3c928e2","TPMS Telltale",2.1,"{p703_u704,p708_l1,p708_rcb,p708_my24,sx2_cx482,cx430mca_sx2_my25,u553_lx}"
+"0efa7f8f-ae2a-4f99-bd6e-8e9466e90090","Trailer Brake Gain Function",1.2,"{rcb_p702_raptor_my24}"
+"23f6b6a4-33d7-45ec-9f76-1aff715b782d","Warning - Brake System",3.2,"{p703_base_my26_fnv2_1}"
+"39219e97-7ca1-41be-9df5-9c0c5f4ac3d8","Trailer Sway Control Function",3,"{}"
+"ec2f31e3-3221-4473-ab38-366eae7e7dfd","Warning - Diesel Particulate Filter Cleaning",3.2,"{rcb_j74_my24}"
+"bb764a9e-3508-46fe-b979-d6c016af73b6","Tire Mobility Kit Reminder Control Function",2.2,"{v769_rcb_my24}"
+"f025cb2c-94fe-411a-a8dc-ab223cb077b4","Warning - Dimming Scroll Bar",2.6,"{v769_rcb_my24,rcb_v710_b2_my24,rcb_p702_base_my25}"
+"d1a31797-a231-4d3b-970a-6ab9af0813a1","Warning - Front Camera Malfunction Warning",1.2,NULL
+"37bb34d7-ecab-4eed-bda5-c44a6b51e9d7","Warning - Fuel Door Open Delay - xEV",3.2,NULL
+"c242c25f-2f94-4d41-a60d-03cb9b870293","Warning - Fuel Door Open Delay - xEV",3.1,NULL
+"3d54be52-39cc-41d9-afec-6f4ac5b1d4cf","Engine Temperature RTT",5.5,"{p703_base_my26,p703_base_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_j73_my26,p703_j73_my26_fnv2_1,p703_u704_my26}"
+"5ccc3cec-7050-4cc4-b1f8-df6cbb96de45","Warning - Headlamp Switch Status",1,NULL
+"ba3c8b85-4ca2-47dc-8bde-29c4a0779c60","Warning - Hill Park Assist",1,NULL
+"80cdc5e6-8b8c-4b6f-9ba4-4d1a963a0438","Warning - Keypad Factory Code",1.2,NULL
+"4cd4d747-fe3c-4518-a7c5-37ea157fb001","Warning - Lane Assist System",4,NULL
+"b25064b6-dd14-4e3a-912a-5c68b7544c3c","Warning - Lane Assist System / Blind Spot Assist Fault",5.1,NULL
+"d25612b3-f458-43bd-973b-2af6cea25ede","Warning - Limited Battery Performance Due to Cold or Hot Battery - BEV",1.2,NULL
+"b16ba43b-90db-4b13-ba8e-d1ea09131827","Warning - Limited Battery Performance Due to Cold or Hot Battery - BEV",1.1,NULL
+"dc304bf6-6c39-41c8-9425-5fd0e9e50e3a","Warning - Low Oil Level",1,NULL
+"5dfc8689-0078-48a5-915c-4ca182b5fe56","Warning - Memory Seat Status",2.1,NULL
+"835d3f55-e140-40d0-b9c6-a254084131b6","Warning - Memory Seat Status",2,NULL
+"d4610399-fce8-4912-97dd-a608e13fe941","Warning - Memory Seat Status",1.2,NULL
+"119ca7fa-0c5f-45c2-a1e4-c88afee0dfb4","Warning - MyKey Active",1.1,NULL
+"1272d289-8478-4c30-8098-64a63a7fbab6","Warning - MyKey Park Aid",1,NULL
+"382d72db-37ec-4583-8d31-826dc3174e2f","Warning - Neutral Tow",4,NULL
+"8485546b-fb7a-4cc5-ae35-4f0e2e6dd404","Warning and RTT - DEF_AdBlue Level_Fault Warnings IOD and RTT_TT ECM Direct  Controlled Global",2.2,"{rcb_v710_b2_my24}"
+"a0556fdf-2490-4c9b-854a-a3386beeea80","Warning - OFF Road Mode",2.1,NULL
+"74bcdeb2-ba7a-4202-982d-0a2fef103676","Warning - Oil Life",1.1,NULL
+"0a9a3c47-015c-4323-ae55-c85a5633033b","Warning - Oil Life",1,NULL
+"29282061-520b-4072-b2b7-93f0f915dbad","Warning - Passive Entry Passive Start Immobilizer",9,NULL
+"cd91b36a-1980-4306-8d9f-d3b493af28a6","Warning - Passive Entry Passive Start Immobilizer",8.2,NULL
+"ea975b78-b599-4abe-8fb2-f865a52a80b7","Auto Start_Stop_IMCC Telltale",2.5,"{p702_l1_my26}"
+"9b7854be-676b-4c02-afbd-43948dca1d80","Warning - Perimeter Alarm",1,NULL
+"2e68981b-ca0b-47d9-8a8c-ccb4955130b2","Warning - PHEV_FHEV_Ready - PHEV_FHEV",5.4,NULL
+"da6e7b7e-ccaa-4621-9137-f41acdaae474","Warning - Plug Vehicle In - BEV",1.1,NULL
+"dc18c38c-9695-4738-825d-d29a499d3e6e","Warning - Power Child Lock , Switch Inhibit, and Low Key FOB Battery",2.1,NULL
+"1f489712-5e3b-414d-900d-a16540b3b3b1","Electronic Stability Control (ESC) Telltale",1.0,"{p702_l1_my26}"
+"1e5789e7-9e9c-42c9-8ae9-2b1a1f3216de","Warning - Power Child Lock, Switch Inhibit, Low Key FOB Battery and Check Tailgate Ajar",4,NULL
+"82644677-4900-40f5-abab-e40fdd1232bd","Warning - Power Liftgate/Decklid/Sliding Door Warning Chime and Warning",2.1,NULL
+"73d58874-70c5-44b9-a2bc-79c6308345a1","Warning - Power Running Boards Status",1.3,NULL
+"cd6ac5c9-a8f6-4b26-8aa7-2676497ad414","Front Fog Telltale",1.2,"{p702_l1_my26}"
+"15bebe0d-bb94-4133-b512-2cb2a47a8930","Warning - Powertrain Cooling",1.2,NULL
+"f0b0c733-c4d5-4921-a564-6f247eec383a","Warning - Rear Belt Monitor",6,NULL
+"ccd8e26c-c0fa-48e0-8050-06e0e206c4e0","Warning - Rear Belt Monitor",5,NULL
+"22d00718-9d54-42d9-94ed-5a9ec052c15b","Warning - Rear Beltmonitor",6.1,NULL
+"6521af40-8c98-479a-b336-825d8071f7dd","GCC Overspeed Warning Telltale, Fixed Dedicated RTT, and Chime",4.0,"{p702_l1_my26}"
+"8a7b15ec-0178-4a93-9c3b-8047164dc425","Warning - Remote Start",4.1,NULL
+"87b6aff6-6c5b-4d52-bd47-1c592e4c6e16","Warning - Reverse Brake Assist",1,NULL
+"dd19a795-b1a5-4c7c-8cc0-9a3013ac9b4a","Warning - Service Steering",2.1,NULL
+"91495d1a-2d3a-4705-8352-f8d850f39957","Warning - Side Wind Compensation",1,NULL
+"1cad845e-d2cd-4210-848d-07ed1c1eae01","Warning - Snow Plow Mode Active - P552 Only",1.1,NULL
+"36d93b2d-22d4-4633-aee4-65395df43745","Warning - Snow Plow Mode Active - P552 Only",1,NULL
+"89d926fa-14b3-4bda-8f82-6aadefaedb83","Warning - Speed Alarm",4,NULL
+"c8fb3250-5f13-4bdf-bc51-9538eab8e4c1","Warning - Start in Gear",1.1,NULL
+"b7afe30c-849c-4482-9120-8ed9a2c50a75","Warning - Starting System",1.2,NULL
+"4a6a4065-a6e8-43cb-9f04-f1b40dfcfc71","Warning - Starting System",1.1,NULL
+"54b37758-cf49-4617-a7f1-16970c9318f1","Warning - Starting System",1,NULL
+"767b0b4e-9c2e-45a0-8cb5-2bda6fa76956","Warning - Starting System During Welcome - Diesel with PEPS specific",1,NULL
+"19442a79-d57d-409f-8f70-9b801e387423","Warning - Steering Wheel Lock",1.2,NULL
+"be1c4bf6-6aee-432d-98df-6d6831922fa9","Warning - Neutral Tow",4.3,"{p708_l1_my25}"
+"fb10ecff-354f-4880-b194-75d61f8146a9","Warning - Tracking and Blocking",1.1,NULL
+"e9257270-e652-4eab-90ba-285fbf1c5658","Warning - Traction Control Always On",2.1,NULL
+"9feec948-fb8d-4b0a-bbad-838d5fd5c75f","Warning - Traction Control Off, Traction Control On, Advancetrac Sport Mode, Advancetrac Off, and Advancetrac On",7.1,NULL
+"bf14d67a-ea13-48fc-ab5c-f2dc991a30bf","Warning - Trailer",5.3,NULL
+"aabfb4fd-4301-43b6-871b-3cee903fb7c5","Warning - Trailer",5.2,NULL
+"a666dc1a-a7cd-4c15-a2a9-ff2072407abc","Warning - Trailer",5,NULL
+"2b1aebfc-b2bd-41c2-89bc-388d9a720728","Door Ajar RTT and Warning",1.7,"{p703_raptor_my26,p703_base_my26,p703_u704_my26,s28_cx430_my26,p703_j73_my26}"
+"6ce08454-8f0d-4008-8604-943c494a7f3d","Warning - Transport Mode",2.1,NULL
+"3cc2d2a9-3a56-44d6-93e3-c1c44591b85f","Warning - Vehicle Inhibit (OTA)",1.3,NULL
+"db9f7c05-e659-4656-90a3-c613a8489a84","Warning - Vehicle Speed Limiter",6.1,NULL
+"41fdf6db-55e4-4263-81c1-8e0e53c877a5","Warning - Work Surface",1,NULL
+"537b0bc1-5b5d-41fc-9370-f9bf54313800","Warning and RTT - DEF_AdBlue Level_Fault Warnings IOD and RTT_TT ECM Direct  Controlled Global (Except NAChina) ",2,NULL
+"491c03b0-0a58-4b25-a0a2-fe36e3780105","Warning and RTT - Trail Control Warnings and RTTs",2.2,NULL
+"33755e90-4014-45b5-85dc-701048e36e01","Warning- Thermal Run away_China Only - xEV",1,NULL
+"199ec351-3694-4bf1-b905-e01fbd8ee933","Warnings - Approaching Vehicle Audible System",1.1,NULL
+"6692389a-7aa0-41a9-be4b-275aaf60b4fb","Warnings - Diesel - Engine Warming Please Wait and Ok to Drive",2.1,NULL
+"3e820630-8610-4e6a-aa17-30bd6bdfd852","Warnings - Diesel Particulate Filter Cleaning",3,NULL
+"0904ea74-e0ad-440a-841e-5ef2d6c96994","Warnings - Electronic Latch System",1.3,NULL
+"e1c5c87b-8ada-4a25-80a3-31b286c9f088","Warnings - Hill Descent Control (HDC) with RTT_TT On_Off Indication",1.5,NULL
+"b9772cbf-6016-4e5c-8930-6f9d09e65043","Warnings - Power Running Boards",1.2,NULL
+"397fe887-8d62-4aa0-9ef6-419d171fb310","Warning-Traction Control OFF_Traction Control ON_Advancetrac OFF_Advancetrac ON",7,NULL
+"b4159ed9-8ae7-4a8d-86b0-0ef505f09f6a","Welcome-Goodbye Strategy",7.7,NULL
+"296a2828-225e-4e67-ae30-1bfef5ab12f5","Welcome-Goodbye Strategy",7.3,NULL
+"6fe228eb-c78c-45b5-b8aa-8a7ac8ca4a1d","Warning - Keypad Factory Code",2,"{s28_p758_my25,rcb_v710_b2_my24}"
+"e335c56f-d97e-4b7e-8429-5f1d01e07317","Warning - Trailer Sway Reduce Speed",2,"{sx2_cx482,sx2_cx482_eu,sx2_cx482eu_my26_5}"
+"8ff929f4-c037-40e6-b44a-eddbaed807dc","Warning - Load Shed",2.1,"{cx430mca_sx2_my25,s28_p758_my25}"
+"247cb7ff-d76c-4556-b4de-adb97b536b2a","Warning - OCS blocked",1.3,"{v769_rcb_my24}"
+"210be9f7-56ba-4a0f-910d-c9ed7565db65","Warning - Load Shed",1.3,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"39ecc280-3969-4f5f-a065-2c27e98dc9b7","Warning - Powertrain Cooling",1.3,"{cx430mca_sx2_my25,s28_p758_my25,rcb_p702_base_my25}"
+"ad1718d8-c007-4fb0-b48d-1cfcffef9244","Wipers Control Function",3,NULL
+"dd880289-fa44-422e-8c15-8dd21d876eb1","Warning - Diesel - Low Oil Level for 30k Oil Minder",1.2,NULL
+"1ce2463d-8e54-41a0-9d00-14e7adc6d691","Warning - Sleeper Seat",1,NULL
+"75277b1d-21db-49fd-8d37-ce7e845a4a63","ABS Telltale",2.1,"{u553_lx,p703_base,p708_l1,p708_my24,cx430mca_sx2_my25,p702_bev_my23,u553_lx_my23,p703_base_my26,p703_base_my26_fnv2_1,p703_j73_my26,p703_j73_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26}"
+"d2a95143-5291-46b2-80fc-e1f006bca98c","Oil Pressure Gauge",2.3,"{u553_lx,p708_rcb}"
+"cb5124a6-a2a5-40c6-8b3a-e422ee325851","Brake Telltale / Electric Park Brake",5.1,NULL
+"6dc6b263-7776-4283-928c-1141efafe1da","CADS Cluster Interface Specification",26,NULL
+"00000000-0000-0000-0000-000000000000","Placeholder",0,NULL
+"e095d8c0-a7aa-4afd-83ee-161e9e415c95","IPC_Global_config",7.1,NULL
+"74aeafdc-642d-420a-86aa-aa69acee696f","IPC_Global_config",7.3,NULL
+"c3c5f4d7-01ad-4ee7-8f83-d2c00f77451d","Active Front Steering RTT and Messages",3.2,"{u553_lx,u554_lx,p703_raptor,p703_base,p708_rcb}"
+"2ee4b8ea-f387-49a3-a5ea-d2ddf8b6a2ac","Air to Fuel Ratio Gauge Display",1.3,"{p703_raptor,u725_my22_5,u725_my23,s650_rcb}"
+"6a8d428f-d00e-4652-ab49-6ee31384bb6e","Warning - 4x4 Unable to Disengage",1,NULL
+"0e97b8a5-1d31-458b-bbd2-dfa2ce4dfd39","Air to Fuel Ratio Gauge Display",1.2,"{}"
+"b6a9a20e-347c-4fac-a028-4b2c5a07001a","Status Screen IoD Display",1.3,"{p702_raptor,p703_raptor,u725_my22_5,p702_raptor_my22}"
+"40b2e71b-8a23-45a2-a921-ac8fd43acaa5","Engine Coolant Temperature Gauge - PHEV_FHEV",1.6,"{rcb_p702_base_my24,p703_raptor_my26_fnv2_1,p703_j73_my26_fnv2_1}"
+"5491e202-944b-48d8-8a96-c5b3e9a79bdb","Manifold Charge Temperature Gauge Display",1.1,"{p702_raptor}"
+"935b59da-fb30-4f4e-991d-f94ebf01cee3","Axle Oil Temperature Virtual Gauge Display",1.1,"{p703_raptor,s650_rcb}"
+"24a5a649-3dab-4bf2-bb87-a58351edd8a3","Cylinder Head Temperature (CHT) Gauge Display",1.3,"{p703_raptor,u725_my22_5,u725_my23,s650_rcb}"
+"57a135cc-4112-48b7-8d01-f049850a7378","Inlet Air Temperature Gauge Display",1.3,"{s650_rcb,u725_my22_5,u725_my23,p703_raptor}"
+"91b1716f-7e5f-4b55-bab7-7dfd32ff69d9","Rear Fog Telltale",2.2,"{p703_base,u553_lx,p708_l1,p708_rcb,p708_my24,sx2_cx482,cx430mca_sx2_my25}"
+"12b05452-1cf1-4998-8809-f63b22b5572b","Power Running Board Control Function",1.3,"{p703_base,p703_raptor,p703_u704,p702_raptor_my22,p702_tremor_my22,s28_v710_my23}"
+"cb877777-c2e0-4a84-9afe-f85127609b08","MenuStructure Release",8.3,"{u553_lx}"
+"e3d4c8fe-11f2-4dfb-a44b-615db50cd1e1","Engine Coolant Temperature Gauge - PHEV_FHEV",1.4,"{p703_base,rcb_p702_raptor_my24,rcb_p702_raptor_my25,p703_raptor_my26_fnv2_1,p703_j73_my26_fnv2_1}"
+"b13f27c6-d608-48e0-8e7d-9a5c1366fc37","Speedometer Secondary Scale Control Function",3,"{p702_bev}"
+"23df7152-ffae-42c3-b64a-c4711b6095d1","Turbo Boost Gauge - L1 Metric",1.5,"{p708_l1}"
+"d643514e-6761-47bd-9ce9-3a894891ef2b","Selectable Steering and Suspension Modes Display Function",1.4,"{rcb_p702_raptor_my24}"
+"6cc17604-65ff-43aa-9412-d8f8562b5153","AWD Gauge - IOD",4.4,"{cx482_mca_my23,sx2_cx482,sx2_cx483}"
+"8e330172-4978-4f41-bc93-3d199bb19475","Engine Coolant Temperature Transfer Function",10.0,NULL
+"94bccd99-27c3-43c0-98ca-1e6af36c4b6f","Speedometer Gauge - Dual Digital Output",4.2,"{sx2_cx482}"
+"0e626bbd-b0e3-4d98-957b-afcfc0967ac4","Power Distribution Gauge",1.8,"{p703_u704,p703_j73,p708_rcb,p702_raptor_my22,u725_my22_5,u725_my23}"
+"17908155-70f3-4793-a4e5-35d8c88438ce","Oil Temperature Gauge Display IOD",1.4,"{u725_my22_5,s650_rcb,p708_rcb}"
+"6401d293-2a22-422a-b1fb-6f760e9118c3","Fuel Level Gauge Dual Tank",2.1,"{p708_rcb}"
+"b62ed402-8cfa-45b8-8f93-8305f2f0145c","Manifold Charge Temperature Gauge Display - IOD",1.2,"{u725_my22_5}"
+"6a6e304c-5e92-4506-8da1-f42a6e71f672","Engine Coolant Temperature Gauge",2.3,"{u725_my22_5,u725_my23,sx2_cx482,sx2_cx483,sx2_cx482_eu,rcb_bx726_mca_my24,sx2_c519_gsr_my24,u725_my25_b,p703_j73_my26_fnv2_1}"
+"77904609-93f2-48cd-95a6-24c3da2adf39","Wipers Control Function",3.3,"{cx482_mca_my23,s28_v710_my23}"
+"a6ec7afc-28e1-4376-857d-8183ecfc0a64","Engine Brake Gauge - Diesel",1.0,"{p708_l1,p708_rcb}"
+"9f557271-bbdf-46b6-95a9-532ed26cb6f8","Low Fuel Reminder RTT or Telltale - IPC or PCM Algorithm",7.0,"{p702_l1_my26}"
+"3e4e2d00-50e6-4990-8f97-df71d3e2498f","Water In Fuel RTT and Warnings",5.4,"{p703_raptor,p703_base,p703_u704,p703_j73,p708_rcb,cx482_mca_my23,sx2_cx482,p708_l1,p708_my24}"
+"f844c250-e4d7-4290-86cb-4470471283a7","4x4 Low Fixed_Dedicated RTT ",1.3,"{p708_rcb,u553_lx}"
+"86115639-390c-4033-9e6a-5fc0d947498c","Speedometer Gauge - Dual Digital Output",1.2,"{u554_lx,u553_lx,p703_base,cx482_mca_my23,p703_u704,s650_rcb,p708_rcb,sx2_cx483,s28_p758_my25,cx430mca_sx2_my25,rcb_j74_my24}"
+"d0893130-bf99-4fc3-85ec-d4381a13f100","Speedometer Secondary Scale Control Function",4.1,"{cx430mca_sx2_my25}"
+"ff7880aa-5633-4752-a251-1559b3184da7","Traffic Sign Recognition Control Function",3.1,"{s28_p758_my25,s28_v769_my23,sx2_cx483,rcb_v769_bev,rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24,p703_base_my26_fnv2_1,p703_raptor_my26_fnv2_1,p703_j73_my26_fnv2_1}"
+"ba76e932-1668-4869-ae1e-911dcbcd5662","Motor Temperature Gauge - BEV",1.0,"{p702_bev,p702_bev_my23,p702_bev_my24}"
+"87a5a1de-9570-4e3e-8344-45206fa5abe5","Battery Temperature Gauge",1.0,"{p702_bev,p702_bev_my23,p702_bev_my24}"
+"0266936f-a21e-4065-847b-1571058e073c","Power Gauge – Virtual - BEV",1.2,"{c727,p702_bev,p702_bev_my23,s28_v710_my23,p702_bev_my24}"
+"87fef108-1b2c-4edd-b75a-0f48c2b7053f","Tachometer Gauge",4.1,"{u725_my22_5,u725_my23,p703_u704,u554_lx,cx482_mca_my23,u553_lx,s28_v710_my23,s28_v769_my23}"
+"a8dda111-4837-4f23-bb10-8807511a3aa5","Fuel Operated Heater (FOH) and Fuel Operated Park Heater (FOPH) Control Function",4.2,"{cx482_mca_my23,sx2_cx482,p703_u704,s28_v710_my23,p703_j73,sx2_c519_gsr_my24}"
+"ba01e24a-b15f-44ac-86af-4cddca11851f","Manifold Charge Temperature Gauge Display",1.2,"{p703_raptor,u725_my22_5,rcb_p702_raptor_my24,rcb_p702_raptor_my25}"
+"66a29396-1fab-48f4-88d9-56a580fd0411","MIL Telltale",1.0,"{p702_l1_my26}"
+"12964c6e-1ee3-40b4-bdf1-0f8a9b460d8e","Turbo Boost Gauge",1.7,"{p703_raptor,u553_lx,p703_j73,p708_rcb,rcb_p702_base_my24,rcb_bx726_mca_my24,sx2_c519_gsr_my24,cx430mca_sx2_my25}"
+"0b354664-69d1-40e0-84cf-81a93f7da335","Diesel Exhaust Fluid (DEF)-Adblue Level Virtual Gauge Display",3.1,"{p703_raptor,cx482_mca_my23,p703_j73,sx2_cx482,p708_rcb,p703_base,p703_u704,s28_v710_my23,rcb_j74_my24}"
+"d38789e6-0c5e-4188-a3f5-a60d1fad03f7","High Voltage Battery Gauge (SOC) PHEV",7.4,"{cx482_mca_my23,sx2_cx482,sx2_cx483,s28_v710_my23,rcb_v710_b2_my24,rcb_j74_my24}"
+"038e7a5e-d2c4-447d-b63a-413d9fd655de","Driver Alert System Control Function",5.0,"{sx2_cx482_eu}"
+"e44615e8-e09e-4a4e-bceb-34690b980050","Display Language Selection Control Function",11.3,"{p703_base,p703_raptor,p703_u704,p703_j73,cx482_mca_my23,s28_p758_my25}"
+"0f9a680a-f989-4b2c-9091-a79746db50c9","Highway Assist with Lane Centering Control Function and Warnings",2.3,"{p703_j73_my23b,p703_u704_my23b,p703_raptor_my23b,p703_base_my23b,p703_base}"
+"a3ad2e0d-2ac0-4479-8bcb-04232371e8d6","Speedometer Gauge",2.1,"{u725_my22_5,p703_j73,p703_u704,sx2_cx483,u553_lx,u554_lx,cx482_mca_my23,p703_u704_my23b,u725_my23,sx2_cx482_eu,u725_my25_b,sx2_c519_gsr_my24}"
+"01ec7a43-ccce-4c80-a683-f114b4479e58","TJA_ClusterInterfaceSpecification-P702_special",0.1,NULL
+"f909f1e3-f3fe-45bb-aeb0-fc0c6bf4a8d8","Battery Voltage Virtual Gauge Display",1.3,"{p703_raptor,u725_my22_5,u725_my23,s650_rcb,p708_l1,p708_rcb,rcb_p702_raptor_my24,rcb_p702_base_my24,cx430mca_sx2_my25,p703_base_my26_fnv2_1}"
+"b079486c-08d3-46ad-b73f-6967bdd12bf0","ACC Cluster Interface Specification",27.1,"{p703_base}"
+"417d1e34-472d-47e0-b12d-e7ab36956c2b","Auto Stop Start Telltale or Fixed RTT",2.3,"{p703_base,u554_lx,p703_u704,sx2_cx482,u553_lx_my23,p702_bev_my23}"
+"fe471a6f-3686-4483-a8f5-91dd15589894","ACC Cluster Interface Specification",28,"{p702_bev_my25,rcb_v710_b2_my24}"
+"d6aa0c0a-d9f0-4262-b084-db2c524fe62a","Wrong Way Alert Control Function and Warning",2.2,"{sx2_cx483,p703_u704,p703_j73,rcb_bx726_mca_my24,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26}"
+"e31cc6d5-c119-4d28-934b-1d30f1887ece","Traffic Sign Recognition Control Function",3.2,"{p703_u704,p703_j73,p703_base_my23b,p703_u704_my23b,p703_raptor_my23b,p703_j73_my23b,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,s28_v363_my24_75,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26}"
+"90dea6f0-6e72-4f30-877a-3b2fd41d36db","Selectable Drive Mode Control Function",2.0,"{u725r_my26}"
+"83a66c84-a92d-4039-a779-0a08b532f97e","MyGauges Display Control Function-P552 Raptor",1.2,"{rcb_p702_raptor_my24}"
+"5c32e906-0529-4523-b3c1-db6ef31778a0","Fuel Level Gauge - IPC or PCM Algorithm",2,"{p708_l1,p702_tremor_my22,p702_raptor_my22,p702_lx,p702_lx_my22}"
+"b915cf30-c121-4872-b184-c26c0f3ad169","IoD Configuration Control Function",1.0,"{cx482_mca_my23,s28_v710_my23}"
+"657ad7b4-733e-4278-b277-e4ab0d25a065","Range Display HMI for PHEV",2.5,"{sx2_cx482,sx2_cx483}"
+"05ff1e8a-a62d-43cc-804f-ae0d20472f3b","Easy Entry Exit Control Function",2.0,"{cx482_mca_my23,s28_v710_my23}"
+"310cdff8-278b-4fe7-a9d8-eab03e347f8a","MyGauges Display Control Function-P552 Raptor",1.1,"{u725_my22_5}"
+"4f68bcda-818a-4094-a414-40f07232af16","Power Distribution Gauge",1.6,"{p703_base,u553_lx,p702_bev}"
+"2e53514e-ef4f-4e77-a47c-5f80697e3735","Speedometer Gauge",2.2,"{p708_l1,p708_rcb,cx430mca_sx2_my25,p702_l1_my26}"
+"2ceb1c46-536f-4e29-acf6-97b429a8e829","Passenger Airbag Deactivation Control Function",2.3,"{sx2_cx483}"
+"1534cda9-cc14-480a-a8f2-ee6e619b3d19","Turbo Boost Gauge - L1 English",1.5,"{p708_l1}"
+"a59567f4-e214-4312-a7cb-65672e06f14d","Engine Coolant Temperature Gauge 2.4 + PHEV_FHEV 1.6",2.4,"{s28_p758_my25}"
+"e3a476b6-9163-4ab7-91c9-c7f2e071a513","Classic Gauge View Control Function",1.1,"{s28_p758_my25}"
+"b0423672-2062-4a7a-a471-ed6ef0c318bd","P708 l1: Selectable Drive Mode Control Function",3.1,NULL
+"2ee84cd9-b2cc-4af2-9abc-ba88e6c30524","Silent Mode Control Function",2.2,"{s28_v710_my23}"
+"1886b7cf-f0f1-4fee-8800-88a7e59fd8b0","Shift by Wire Control Function",11.5,"{c727_my23,c727_my25}"
+"c88d7ea2-e6ba-4ccc-bd33-5cde7af3a687","Highway Assist with Lane Centering Control Function and Warnings",2.5,"{p703_u704,cx482_mca_my23,p708_rcb,p703_j73_my23b,p703_u704_my23b}"
+"004e6237-dc76-473b-910b-578a20261619","Highway_Assist_with_Lane_Centering_Control_Function_and_Warnings_FNV2",3.0,"{c727_my23,s650_rcb}"
+"64fcdb5e-2636-49fc-b95b-22e96af4be02","Lane Assist Control Function_10",10.0,"{rcb_p702_base_my24,rcb_p702_raptor_my24,s28_v710_my23,s28_p758_my25}"
+"d83d7deb-babf-49ea-b7f9-d2c90f1ae81b","EV Coaching Gauge - PHEV_FHEV",1.4,"{sx2_cx483,cx482_mca_my23,rcb_p702_base_my24,s28_p758_my25,rcb_v710_b2_my24,rcb_j74_my24,p702_l1_my26,p703_base_my26_fnv2_1}"
+"d666c384-e730-42f8-8ca7-2efc43b185d9","Transmission Fluid Temperature Virtual Gauge Display",2.2,"{p703_raptor,u725_my22_5,s650_rcb,p702_raptor,p702_raptor_my22,rcb_p702_raptor_my24}"
+"1d1f5ad9-9261-4af3-918d-c0d1934896ad","Engine Rev Matching Control Function",2.0,NULL
+"b355eeaa-04e0-4684-9288-9dc3e44eb268","Adaptive Head Lamps Control Function",4.0,"{cx482_mca_my23,s28_v710_my23,p702_bev,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24}"
+"3358609b-3eaa-4f34-a64d-e522802b09d3","Warning Pro Power on Board",1.2,"{p703_base_my26_fnv2_1}"
+"2d4f83e3-5692-46f0-8057-da8f898ee0f2","Engine Coolant Temperature Transfer Function",11,"{s650_rcb}"
+"809186cf-c0ae-4d0b-899d-df7b3f292c29","Engine Idle Hour Function",1.4,"{}"
+"af1b2052-54d1-484b-96e4-4767c7f648f4","Selectable Steering and Suspension Modes Display Function",1.2,"{p702_raptor,u725_my22_5,p703_raptor}"
+"00ca538d-a8fe-48bb-8e81-83044f8ee3b8","Status Screen IoD Display",1.2,"{p703_raptor_my23b,s650_rcb}"
+"65c85a85-48b7-4628-a91b-2f196ff1d564","IoD Configuration Control Function",1.1,"{s650_rcb,s28_v710_my23}"
+"b9d9e7dd-6046-41e2-bd2b-4257abd4e4bd","Display Layout Function",1.2,"{s650_rcb}"
+"d961cf86-4fc9-4517-b718-50bb5fd25d05","Fuel Level Gauge - IPC or PCM Algorithm",4.0,"{rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,rcb_j74_my24,rcb_v710_b2_my24,rcb_p702_raptor_my25,cx430mca_sx2_my25,u725_my25_b,p702_l1_my26}"
+"cc023949-bc0c-4246-860c-7ab7230f071b","Status Screen IoD Display",1.6,"{rcb_p702_raptor_my24}"
+"bd29be13-ced8-4a6c-99c5-d459e6b992b7","Forward Collision Warning Control Function",5.2,"{sx2_cx483,u725_my23,cx430mca_sx2_my25}"
+"aa39627e-ac73-4808-84b8-11bdf825e746","ESC OFF Telltale",2.2,"{u553_lx,u554_lx,p703_raptor,p703_base,p703_u704,p703_j73,p708_rcb,rcb_p702_base_my24,rcb_p702_raptor_my24,cx482_mca_my23,sx2_cx482,s650_rcb,p708_l1,p708_my24,cx430mca_sx2_my25}"
+"bf8123ef-fc55-42e1-a3dc-69c6cc5abe50","Selectable Drive Mode Control Function",2.2,"{p702_bev,p708_l1,p702_bev_my24,p702_bev_my25}"
+"54325b4d-a32b-4fb5-9fc6-001c3bbd1b6c","High Voltage Battery Gauge (SOC) BEV",1.1,"{s28_v710_my23,p702_bev}"
+"cd2a10ab-f729-4d8d-9670-7216dce2f77c","Engine Hour Function",2.0,"{p708_rcb,s28_v710_my23,rcb_p702_base_my24,rcb_p702_raptor_my24,s28_v769_my23}"
+"8ae2c8da-c243-4c4f-9012-43a613203274","Engine Idle Hour Function",2.0,"{p708_rcb,s28_v710_my23,rcb_p702_base_my24,rcb_p702_raptor_my24,s28_v769_my23}"
+"22509348-7540-4092-921d-debe3e398be8","Door Liftgate Liftgate Liftglass Ajar,Trunk Ajar Hood Ajar RTT and Messages",8.3,"{p708_rcb,sx2_cx482,cx430mca_sx2_my25,u553_lx}"
+"f0f616cb-c9e4-4204-be60-f9de28499e1c","Drive Control in Stationary Mode RTT",1.1,"{p708_rcb,cx430mca_sx2_my25,u553_lx}"
+"93ea9b4b-a33b-499f-845e-aad8147041d2","Highway Assist with Lane Centering Control Function and Warnings",2.4,"{sx2_cx482,p703_u704,s650_rcb,p703_j73,p708_rcb,p703_j73_my23b,p703_u704_my23b}"
+"f1c49350-2764-4ff7-9bf6-e092fba34116","Oil Temperature Gauge Display",1.4,"{p703_raptor,u725_my22_5,p703_u704,p703_j73,p708_rcb,p703_base,p708_l1,rcb_p702_base_my24,rcb_p702_raptor_my24,sx2_c519_gsr_my24,rcb_bx726_mca_my24}"
+"f42c25e1-7d54-4748-80a0-b076db38d283","Virtual Horsepower Gauge-PHEV-FHEV",1.6,"{cx482_mca_my23,sx2_cx482,sx2_cx483,s28_v710_my23,rcb_v710_b2_my24,rcb_j74_my24,s28_p758_my25}"
+"da6795ec-79f4-4db3-923e-4db4f273ac4a","Automatic Regen Control (ARC) Function_Warning_RTT_Telltale",2.1,"{s28_v363_my24_75,s28_v710_my23}"
+"60cd05be-3684-4cd2-acb7-3819c78cc60c","Oil Change Minder 10K and Diesel",1.8,"{s650_rcb,cx482_mca_my23,rcb_p702_base_my24,rcb_p702_raptor_my24,s28_p758_my25,cx430mca_sx2_my25,rcb_bx726_mca_my24,sx2_c519_gsr_my24,rcb_j74_my24}"
+"9a3a255d-dd5b-4e5d-8d3a-820162205810","Ready Telltale BEV_PHEV_FHEV",2.0,"{p702_l1_my26}"
+"b22f6d67-1921-455a-9c5d-b052b2b2b032","Vehicle Maintenance Monitor High Level Screen and IOD Function - Water in fuel",3.1,"{cx482_mca_my23,p708_rcb,s28_p758_my25,rcb_v710_b2_my24,rcb_j74_my24}"
+"7cf99267-92bc-48e9-abf5-dc9e7b223b11","Brake Coach Gauge - xEV",5.3,"{sx2_cx482,cx482_mca_my23,rcb_p702_base_my24,s28_p758_my25,rcb_p702_base_my25}"
+"0a027dbe-1661-49e6-ae4f-a75f0e1e1780","Power Gauge – Mild HEV",1.2,"{sx2_cx482,cx430mca_sx2_my25}"
+"73b56a8a-f237-4051-8431-e4f6a62fc86f","Vacuum Gauge",2.1,"{s650_rcb,u725_my25_b}"
+"240b3c2c-49d5-43b0-bc65-f19ad1c5412a","Speedometer Secondary Scale Control Function",4.2,"{p703_u704,s650_rcb,p703_base,p703_raptor,p703_j73,u725_my22_5,rcb_p702_base_my24,rcb_p702_base_my25,rcb_p702_raptor_my25}"
+"6fc564a4-b325-4959-8365-d8eb02a670a8","Seatbelt Beltminder Telltale IPC Controlled",13.8,"{p702_l1_my26}"
+"d980ff99-1ef8-4a36-80bb-d7aa8ad6f35b","Approach Detection Control Function",2.2,"{rcb_bx726_mca_my24,v769_rcb_my24}"
+"210fe313-db4c-4bc5-997d-c0497dcd8184","AutoHighBeam Control Function",2.3,"{p703_base,cx482_mca_my23,p703_j73,p703_u704,p703_raptor,sx2_c519_gsr_my24}"
+"d1202080-bead-415a-a114-3b1dd42a90d5","ABS Telltale",2.2,"{rcb_bx726_mca_my24,p708_rcb,s650_rcb,sx2_cx483,sx2_cx482,cx430mca_sx2_my25,sx2_cx482eu_my26_5}"
+"48811941-dac3-43c1-88bb-b10ce01528af","Power Gauge – Mild HEV",1.3,"{cx482_mca_my23,rcb_v710_b2_my24}"
+"917370ee-9c2c-46e8-a322-2d92b6883f77","High Voltage Battery Gauge (SOC) BEV",1.2,"{p702_bev_my23,p702_bev_my24,rcb_v710_b2_my24,rcb_bx726_mca_my24,rcb_j74_my24,v769_rcb_my24}"
+"350637db-bdeb-4186-8176-2090e24ad5d0","Speedometer Gauge View Control Function",1.1,"{cx482_mca_my23}"
+"da1e8be9-cfba-4ee4-9811-e4a0fd41f7da","Sidemarker Position Lamp Telltale",2,"{p702_l1_my26}"
+"890df8f5-f64d-45ea-9a04-15c17d4b6c2c","Selectable Drive Mode Control Function",3.6,"{rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_p702_raptor_my25}"
+"ab683b0b-0dde-43d3-ba7f-76f3d5615e3e","Transmission Fluid Temperature Virtual Gauge Display",3.0,"{p703_u704,u725_my22_5,p703_j73,p703_base,p703_raptor,p708_rcb,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_p702_raptor_my25,p703_base_my26_fnv2_1}"
+"d752b693-9867-41d5-aeb8-7fc7e232f5d4","Tachometer Transfer Function",2.0,"{p708_l1}"
+"acb6d886-6160-4991-92d0-f808077b056a","Inlet Air Temperature Gauge Display IOD",1.3,"{u725_my22_5}"
+"8a71c01c-1a71-4850-8434-ff93565b018a","Vehicle Maintenance Monitor High Level Screen and IOD Function  - v2.3",2.3,"{cx482_mca_my23,p703_u704,p703_j73,p708_rcb,p708_l1,p703_base,u553_lx,rcb_p702_base_my24,rcb_p702_raptor_my24}"
+"885e8957-f7d3-44c6-a496-f664f8a9bda4","Upshift Downshift Indicator RTT",7.1,"{sx2_cx482,p703_base_my26,p703_base_my26_fnv2_1,p703_j73_my26,p703_j73_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26}"
+"1c8cfc03-3266-470b-99df-f4ee1ba5b366","Alternative Fuel Mode Fixed_Dedicated RTT",1.1,"{p708_rcb}"
+"f0c8a8e7-b483-42e7-9785-d5e176dea806","Selectable Drive Mode Control Function",3.4,"{p703_base,p703_raptor,p703_j73,p703_u704,sx2_cx482_eu,p703_j73_my23b,p703_j73_my26_fnv2_1,p703_raptor_my26}"
+"53ad987b-91ae-4446-911e-3b2a4d52ecbd","Tachometer Gauge",4.0,"{p703_base,p703_raptor,p702_raptor,p702_lx,p702_tremor,p702_lx_my22,p702_raptor_my22,p702_tremor_my22,p702_bev_my24,sx2_c519_gsr_my24,p702_l1_my26}"
+"aaf1d982-f857-4979-bfc3-1bdb392c1e17","AutoHighBeam Control Function FNV3",1.3,"{s28_v710_my23,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24}"
+"78909a24-6ced-463e-b964-550f1beb89b5","Autolamp Delay Control Function",3,"{cx482_mca_my23,s28_v710_my23,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24}"
+"cbf1f6dd-7375-4f63-b42e-ba253de4bdde","Driver Alert System Control Function",6.1,"{s28_v363_my24_75,rcb_bx726_mca_my24,s28_p758_my25,cx430mca_sx2_my25,rcb_j74_my24,rcb_v710_b2_my24,rcb_p702_base_my25}"
+"062ba2ac-b323-4f7a-a3d7-a609152a50bc","Daytime Running Lamps Control Function",2,"{cx482_mca_my23,s28_v710_my23,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24}"
+"2765bcd0-51f2-43a5-b342-6d095bb23e4b","Trip Computer - Odometers",3.3,"{rcb_v710_b2_my24,rcb_j74_my24,rcb_bx726_mca_my24,rcb_v769_bev}"
+"87573357-c8a5-474d-8610-fbd476e3a9f8","Locking Control Function",7.0,"{cx482_mca_my23,s28_v710_my23,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24}"
+"0e12747d-1ae5-4647-b69f-3946e6d40ad9","Trip Computer - HMI",6.1,"{rcb_v710_b2_my24,rcb_j74_my24,rcb_v769_bev}"
+"1905f03e-1f11-422d-b768-02a69c382f09","Trip Computer - Average Efficiency - BEV",1.3,NULL
+"bd92e22b-98d1-4adb-9715-8840cfed160b","AutoLock Control Function",3,"{cx482_mca_my23,s28_v710_my23,s28_p758_my25,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24}"
+"9ad17b9a-8897-419b-9b9c-ae7266786b95","Engine Coolant Temperature Gauge",2.2,"{p703_base,p703_j73,p703_raptor,p702_raptor,p702_lx,p702_tremor,p702_lx_my22,p702_raptor_my22,p702_tremor_my22,p703_j73_my26_fnv2_1,u725_my25_b}"
+"1eadaaa6-4dff-4600-aedb-258eeafe90c6","Speedometer Gauge",2,"{p703_base,p703_raptor,p702_lx,p702_bev,p702_raptor,p702_tremor,p702_lx_my22,p702_tremor_my22,p702_raptor_my22,p702_bev_my23,p702_bev_my24}"
+"17454be2-9760-4ed5-a9ac-8afc3bd2cd6d","High Voltage Battery Gauge (SOC) PHEV",7.5,"{p703_base_my26_fnv2_1}"
+"e0ca37c9-b3f0-4cae-b222-9e0e0981eceb","RDL Lock RTT and Warnings",2.2,"{cx430mca_sx2_my25}"
+"91fd253a-56b9-42d9-89b8-d7cf70570b4b","Sidemarker Position Lamp Telltale",2.3,"{p703_u704,u554_lx,u553_lx,p703_raptor,p703_base,p703_j73,p708_rcb,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,s28_v363_my24_75,cx482_mca_my23,sx2_cx482,s650_rcb,s28_v710_my23,s28_v769_my23,sx2_cx483,p708_l1,p708_my24,cx430mca_sx2_my25,p703_base_my26}"
+"47d5d553-264f-4735-acfb-524676be031d","Oil Pressure Gauge",2,"{p702_lx_my23}"
+"c317d51e-9f7b-4fc0-822b-95f67f1cc76f","Transmission Fluid Temperature Gauge",2.1,"{u553_lx,p702_lx,p702_lx_my22,p702_tremor,p702_tremor_my22,p702_lx_my23}"
+"80f2c5c3-fdde-4e98-922d-fb13f257efb0","Power Gauge - MHEV",1.3,"{sx2_cx482}"
+"20606ebc-8481-4dda-a579-1a9feccdb009","Passenger Airbag Deactivation Control Function",2.4,"{p703_base,p703_raptor,p703_u704,p703_j73,cx482_mca_my23,s28_v710_my23,p708_rcb,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,p703_base_my26_fnv2_1}"
+"1aa03f12-1ae1-49a0-a8d1-56689a4777af","Diesel Exhaust Brake & Autoexhaust Brake Telltale_RTT Warnings",1.4,"{p708_rcb}"
+"6649400c-69e1-48a6-b275-4d8cb77d3e14","Telltale and Warning DID",15.1,"{p702_l1_my26}"
+"c64cd058-c2c4-46e1-8b38-d79b05e1641e","4x4 High Fixed_Dedicated RTT ",1.2,"{p702_l1_my26}"
+"64a7c83d-126b-4c95-ae7a-ae2b3d7d18bb","Elocker RTT",3,"{p708_rcb}"
+"66ab5f25-ea24-45d5-b141-761a97734a66","Selectable Drive Mode Control Function",3.5,"{s28_p758_my25,s28_v363_my24_75,s28_cx430_my26,v769_rcb_my24,cx430mca_sx2_my25,u725_my25_b,rcb_j74_my24,p702_bev_my25,rcb_v710_b2_my24,rcb_p702_base_my25,rcb_j74_my26}"
+"35af9a78-c15f-4668-8ab3-1086c88ec3c5","Speedometer Gauge",3.0,"{s28_v710_my23,s650_rcb,p703_raptor_my23b,p703_j73_my23b,p703_base_my23b,rcb_p702_base_my24,rcb_p702_raptor_my24,s28_p758_my25,rcb_bx726_mca_my24,s28_v769_my23,rcb_v710_b2_my24,rcb_v769_bev,rcb_p702_raptor_my25,rcb_bx726_bev_my24,v769_rcb_my24,s650_legend_my26,p703_base_my26_fnv2_1}"
+"ad3cf7f5-1068-4944-9faf-89c4ac599979","Auto High Beam RTT",1.0,"{p708_rcb,p708_l1,p708_my24,sx2_cx482,cx430mca_sx2_my25}"
+"e0409b7f-17c2-41f7-a687-e3f89becbdf9","Selectable Drive Mode Control Function",2.3,"{u553_lx,u554_lx,u725_my22_5,sx2_cx482,sx2_cx483,p708_rcb,s650_rcb,cx482_mca_my23,s28_v710_my23,p702_raptor,p702_tremor_my22,p702_raptor_my22,cx430mca_sx2_my25,sx2_c519_gsr_my24,s650_legend_my26,p703_u704_my26}"
+"cb814791-5776-4f78-89ad-f4b6d1e791e2","Warnings - Hill Descent Control (HDC) with RTT_TT On_Off Indication",2,"{u553_lx,u554_lx,p703_raptor,p703_base,p703_u704,p703_j73,u725_my22_5,p708_rcb,u725_my23,rcb_p702_base_my24,rcb_p702_raptor_my24,cx430mca_sx2_my25,rcb_p702_base_my25,p702_l1_my26}"
+"f3b49840-bfda-4f6d-aed4-5d85be5b6e39","Auto High Beam RTT",1.8,"{cx482_mca_my23,u553_lx}"
+"792d7a89-44d2-4a1a-b82f-19689e886c9e","4x4 Low Fixed_Dedicated RTT",1.2,"{p702_l1_my26}"
+"d5d84e5e-6623-46c1-9911-47d7d2707e8b","Power Liftgate or Decklid Control Function",4.2,"{p703_base,p703_raptor,p703_j73,p703_u704,u553_lx,u554_lx,cx482_mca_my23,s28_v710_my23,sx2_cx482,sx2_cx483,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,s28_v769_my23}"
+"0d0392a6-bfee-43e1-ad01-202248d9ebb3","Oil Pressure Virtual Gauge Display Sensor Based",1.4,"{rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,rcb_p702_raptor_my25}"
+"4289bf1a-e86b-42a3-b8d2-5633ad97c5f4","Adjustable Volume Control Function",1.2,"{u553_lx,u554_lx,p703_base,p703_raptor,p703_u704,p703_j73,u725_my22_5,u725_my23,sx2_cx482,sx2_cx483,cx482_mca_my23,s28_v710_my23,p708_rcb,p702_bev,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,cx430mca_sx2_my25,rcb_p702_base_my25,rcb_p702_raptor_my25}"
+"8fd996aa-eb29-4b2c-9a17-eb48b2e36ef5","Display Unit Selection Control Function",5.1,"{p702_bev,u553_lx,u554_lx,p702_lx_my23,p702_bev_my24}"
+"631f64fd-792c-483d-be3c-0743d6815c26","iACC (Intelligent Adaptive Cruise Control) Control Function",0.1,"{sx2_cx483,rcb_p702_base_my24,rcb_p702_raptor_my24,p702_bev_my23,p702_lx_my23}"
+"6b9f82fe-3aef-4cbc-ac20-346eb68dd72c","Locking Feedback Control Function",2.1,"{cx482_mca_my23,s28_v710_my23,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,sx2_c519_gsr_my24}"
+"b2e3e9be-c6ae-40b0-8328-09e85b6ac691","Oil Pressure Virtual Gauge Display Sensor Based",1.3,"{p702_raptor,p703_raptor,p703_base,p703_u704,p703_j73,p702_raptor_my22,p702_tremor_my22,u725_my22_5,s650_rcb,sx2_c519_gsr_my24,p703_base_my26_fnv2_1}"
+"593fc867-0604-4f8c-a9f4-8d790e16dc83","High Beam Indication Telltale",1.0,"{p708_l1,p708_my24,cx430mca_sx2_my25}"
+"04f7e220-ed4d-44e5-be64-d40369d367ff","AdvanceTrac Control Function",5.0,"{p702_bev,c727,u554_lx,u553_lx,p703_base,p703_raptor,p703_u704,p703_j73,u725_my22_5,sx2_cx482,sx2_cx483,cx482_mca_my23,s28_v710_my23,p708_rcb,s650_rcb,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,p702_lx_my23,rcb_p702_base_my25,rcb_p702_raptor_my25}"
+"ef2c860a-036c-4147-a8e8-9c8b5526a517","Driver Alert System Control Function",4.2,"{p708_rcb,sx2_cx482,p703_u704,s650_rcb,s28_v710_my23,p703_base_my23b,p703_j73_my23b,p703_raptor_my23b,p703_u704_my23b,sx2_cx482_eu,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_j74_my24,s28_p758_my25}"
+"22adaf9f-8ec3-4bb6-b496-de7ee0b48870","Display Language Selection Control Function",11.5,"{p703_raptor_my23b,p703_base_my23b,p703_u704_my23b,p703_base_my26,p703_base_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26,p703_j73_my26,p703_j73_my26_fnv2_1}"
+"dd797e49-2326-4071-a108-f56b48b874f3","Lane Assist Control Function",11.0,"{p708_rcb,p708_l1,s650_rcb,p703_u704_my23b,p703_j73_my23b,p703_base_my23b,p703_raptor_my23b,p702_bev_my23,c727_my23,rcb_p702_raptor_my24,rcb_bx726_mca_my24,rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_p702_base_my24}"
+"4f4d7bf1-fbb4-4956-ad05-84a282fcc059","Eco Coach Control Function and HMI",6.3,"{rcb_bx726_mca_my24,rcb_v710_b2_my24,rcb_j74_my24,v769_rcb_my24}"
+"12c28280-8ed7-43d9-becb-f5643b81a581","Forward Collision Warning Control Function",5.5,"{p703_raptor,p703_base,p703_u704,p703_j73,p708_rcb,sx2_cx482,s650_rcb,p708_l1,rcb_bx726_mca_my24,s28_p758_my25,rcb_j74_my24,v769_rcb_my24,rcb_v710_b2_my24,cx430mca_sx2_my25,u725_my25_b,sx2_c519_gsr_my24}"
+"5595658d-a3dc-49ce-965b-236dee0f3b40","Vehicle Maintenance Monitor High Level Screen and IOD Function - Oil Level Low",3.1,"{cx482_mca_my23,p708_rcb,s28_p758_my25,rcb_p702_raptor_my24,rcb_v710_b2_my24,rcb_j74_my24}"
+"3b47cba3-80c4-41a7-b14e-cd6b3b010eb1","Global Window Control Function",4.3,"{cx482_mca_my23,s28_v710_my23,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,sx2_c519_gsr_my24}"
+"6fca670f-ed1f-4a35-a19b-3e79404c22a7","One Two Stage Unlocking",4.0,"{cx482_mca_my23,s28_v710_my23,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,sx2_c519_gsr_my24}"
+"4257b743-e429-4df3-80bd-6c8dda75a5be","Warning - Power Tailgate with Chimes and RTT",2.0,"{p708_rcb,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26,rcb_p702_base_my25}"
+"9e0f8f63-592f-4c8d-b010-0bb049c95850","Battery Charge RTT and Warnings",3.1,"{u553_lx,u554_lx,p703_raptor,p703_base,p703_u704,p703_j73,u725_my22_5,p708_rcb,u725_my23,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,s28_v363_my24_75,cx482_mca_my23,s650_rcb,s28_v710_my23,s28_v769_my23,cx430mca_sx2_my25,p708_l1,p703_base_my26_fnv2_1,p703_raptor_my26_fnv2_1,p703_j73_my26_fnv2_1,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26,rcb_p702_base_my25}"
+"1d59ddff-ef1e-415e-8006-23a7914a43e4","Highway_Assist_with_Lane_Centering_Control_Function_and_Warnings_FNV2",3.3,"{rcb_p702_base_my24,rcb_p702_raptor_my24,cx430mca_sx2_my25,s28_p758_my25,p702_lx_my22,sx2_c519_gsr_my24,rcb_p702_base_my25}"
+"4ce35cc5-ff7d-49b2-a006-e3c697425690","Odometer",5.1,"{cx482_mca_my23,s28_v710_my23}"
+"f584cedb-e2dd-4eb8-8ab5-cb947c29033e","AutoHold Dedicated RTT and Messages",2.1,"{rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,s28_v363_my24_75,cx482_mca_my23,sx2_cx482,s28_v710_my23,s28_v769_my23,sx2_cx483,p708_rcb,u553_lx,cx430mca_sx2_my25,u553_lx_my23,rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_p702_base_my25,p702_l1_my26}"
+"f397100a-6590-49c1-a2ba-0f765565f130","Warning - Power Child Lock , Switch Inhibit, and Low Key FOB Battery",4,"{cx430mca_sx2_my25}"
+"009ebeab-4539-49b7-81f4-5da039596e47","Warning - Stabilizer Bar Status, RTT and IoD",2.2,"{u725_my25_b}"
+"4c18e2f1-52d1-4991-8b9b-d8b89deb1dc3","Door_Liftgate_Liftglass_RTT, Trunk_Ajar_RTT_HoodAjarRTT and Messages",6,"{p702_l1_my26}"
+"dade5d9d-6757-42e4-9123-a9940617c67d","Speed Control Dedicated RTT w ACC",2.4,"{p702_l1_my26}"
+"33712e03-1bd3-40af-a167-4945ab1bc059","Chime Menu Control Function",4.1,"{u553_lx,u554_lx,p703_base,p703_raptor,p703_u704,p703_j73,u725_my22_5,sx2_cx482,sx2_cx483,cx482_mca_my23,s28_v710_my23,p708_rcb,s650_rcb,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,u725_my25_b,rcb_p702_base_my25,rcb_p702_raptor_my25}"
+"97c271cc-f820-4933-866f-e23009efa32c","Warning and RTT - Off Road Turn Assist",1.0,"{p708_rcb,sx2_cx482,cx430mca_sx2_my25,u553_lx,p702_l1_my26}"
+"83a7cbc6-d25b-4d77-ab36-227183f044aa","ABS Telltale",2.0,"{p702_l1_my26}"
+"70be0023-19fc-4e40-89a6-09b40839d05b","Warning - Trailer and Aftermarket Trailer Brake Controller (ATBC) v6.5",6.5,"{p702_l1_my26}"
+"0464fb8c-f115-445f-bbc1-062d70c20acd","Display Language Selection Control Function",11.4,"{c727_my23,sx2_cx482_eu,s28_v710_my23,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,s650_rcb,s28_v769_my23,cx430mca_sx2_my25,c727_my25,u725_my25_b,u725_my22_5,sx2_c519_gsr_my24,rcb_j74_my26}"
+"8197ec9e-ce92-424b-b9d2-c0297f98489b","Mild HEV (48V mHEV) Auto Start-Stop Speed Threshold Control Function",2.1,"{p703_base_my26_fnv2_1}"
+"32167fed-1657-47c3-9d74-cd4e83b61b7b","Brake Telltale",7.1,"{p702_l1_my26}"
+"a9186023-50b0-40ac-9bfe-4dc944ee7e3c","Drive Control in Stationary Mode RTT",1.0,"{p702_l1_my26}"
+"2c6e9154-0f60-4770-b1a0-370eaedbf261","Warning - Trailer and Aftermarket Trailer Brake Controller (ATBC)",6.4,"{cx430mca_sx2_my25}"
+"e67b70bf-e4b5-4e76-bcc0-ba7ba285ecdb","Warning - Valet Geofence",1,"{cx430mca_sx2_my25}"
+"fc2cfdd7-e544-4898-9123-3b286d69f5fc","EPRNDL ES",2023,"{rcb_bx726_bev_my24,v769_rcb_my24}"
+"13f40a5c-3c0d-4483-8d01-5184a81437cf","Adjustable Speed Limiter Device (with Optional Intelligent Speed Assistance) FNV2",1.0,"{p703_base,p703_base_my26_fnv2_1}"
+"f6795e69-10b0-40e1-823d-551b1acae19a","EPRNDL ES",2022.2,"{rcb_v710_b2_my24}"
+"f323f447-4ed2-404e-98c7-448b6f14d129","Engine Coolant Temperature Gauge",2.5,"{cx430mca_sx2_my25,u725_my25_b,p708_my25,rcb_v710_b2_my24,rcb_j74_my24,p703_j73_my26_fnv2_1,p703_base_my26_fnv2_1,p703_raptor_my26_fnv2_1,p703_base_my26,p703_u704_my26,p703_raptor_my26,p703_j73_my26}"
+"ec3c30c7-333b-4bea-a83c-7167111be1b5","Blind Spot Monitor and BTT with Cross Traffic Alert",13.3,"{cx430mca_sx2_my25}"
+"7028a8ac-9761-450b-9558-cc626b5eca72","Warning - Off Road_Or_Track Use Only - Ford Performance",1.1,"{cx430mca_sx2_my25}"
+"a4bff225-db54-4515-9a91-78fcc5763cf8","Supplementary Gauge Display Control Function",1.4,"{s28_p758_my25,s28_v363_my24_75}"
+"28dc5746-4865-4b1b-809e-a823f79e37cd","Engine Temperature RTT",5.7,"{cx430mca_sx2_my25}"
+"9b085636-429f-4cc0-a4a4-d3125e4fd7dd","Powertrain Malfunction RTT with CHECK4x4_AWD Message",11.2,"{cx430mca_sx2_my25}"
+"9a1f71be-1dc2-434b-a679-e320dbcb9c5b","Lane Assist Control Function",9.4,"{cx430mca_sx2_my25,s28_p758_my25,p702_lx_my22,p703_base,p703_raptor}"
+"56d55991-d508-4207-a0e6-9fb9896a14af","Diesel Exhaust Fluid (DEF)-AdBlue Level Virtual Gauge Display",3.2,"{sx2_c519_gsr_my24}"
+"8bafd48e-f5cb-49e6-af39-ed03abb30da3","IPC Display Layout Function FNV2",1.0,"{rcb_bx726_mca_my24}"
+"f1072f55-888c-4af3-9060-43d43bfe84ab","Tachometer Gauge",5.0,"{cx430mca_sx2_my25,u725_my25_b}"
+"c263e8d0-0430-4009-b350-d4efdf1121c6","Highway Assist with Lane Centering Control Function and Warnings",3.4,"{rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_bx726_mca_my24,rcb_bx726_bev_my24}"
+"b8b65467-11d1-4180-8981-79ba5adb740f","Warning – Side Wind Compensation",1.1,"{cx430mca_sx2_my25,s28_p758_my25}"
+"4cfc54ae-d5cd-4478-ae89-02379c39575b","Transmission Fluid Temperature Virtual Gauge Display",3.1,"{cx430mca_sx2_my25,u725_my25_b,p708_my25,p708_my24}"
+"9c1dc862-063a-4233-ad8f-76eed722a050","Eco Coach Control Function and HMI",6.1,"{sx2_c519_gsr_my24}"
+"b0590176-31a2-4b34-a20d-13d34d3af931","Warning – 4x4 Unable to Disengage",1.0,"{u725_my25_b}"
+"89b7c4a9-8ef6-4daa-acc3-5f592a4fd91f","Oil Temperature Gauge Display",1.6,"{u725_my25_b,cx430mca_sx2_my25}"
+"8c7cc405-3d35-48e4-863d-b6eff68e51e0","Speedometer Gauge",2.3,"{rcb_j74_my24}"
+"be88b116-19c0-416d-82e9-1055b92e0c6f","GCC Overspeed Warning Telltale, Fixed Dedicated RTT, and Chime",5,"{rcb_bx726_mca_my24,sx2_cx482,s650_rcb,sx2_cx483,p708_rcb,rcb_v710_b2_my24}"
+"a29b245c-1eb4-43bd-bc17-0797ddd01728","Fuel Operated Heater (FOH) and Fuel Operated Park Heater (FOPH) Control Function",5.0,"{p703_u704,rcb_v710_b2_my24}"
+"83519ba4-5faf-4463-8724-39b6df947ae6","IoD Configuration Control Function",1.3,"{rcb_bx726_mca_my24,rcb_v710_b2_my24}"
+"08364d76-fd39-4c5a-bb1f-5170a55420e3","Fuel Operated Heater (FOH) and Fuel Operated Park Heater (FOPH) Control Function",5.1,"{rcb_v710_b2_my24,rcb_j74_my24}"
+"72a6699e-00ac-464f-805e-c2c8925a9bfa","iACC (Intelligent Adaptive Cruise Control) Control Function",1.2,"{s28_p758_my25,sx2_cx482_eu,cx430mca_sx2_my25,rcb_bx726_mca_my24,p702_bev_my23,p702_bev_my24,p702_lx_my23,sx2_c519_gsr_my24,rcb_v710_b2_my24,rcb_j74_my24,s650_rcb}"
+"9a47f0c9-5fae-45db-8a93-b2bb6e58b4fe","Highway Assist with Lane Centering Control Function and Warnings - FNV2",3.1,"{cx430mca_sx2_my25,rcb_p702_base_my24,rcb_p702_base_my25}"
+"e79ec2ec-ea4a-4e62-b61c-b7d9f41f6150","Warning- Valet Geofence",1.1,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"486d60d4-ed36-49e7-b227-f51e35fd9518","Warning - Steering Wheel Lock",1.3,"{cx430mca_sx2_my25,v769_rcb_my24}"
+"755906f9-002c-4d17-a535-f0dca05ce795","Warning - Service Steering",3.2,"{cx430mca_sx2_my25,rcb_j74_my24,rcb_v710_b2_my24}"
+"d33d6d36-d09f-4c46-b1c7-e53868b51653","Speedometer Secondary Scale Control Function",4.3,"{p708_my24,rcb_bx726_mca_my24,rcb_v710_b2_my24,rcb_j74_my24,v769_rcb_my24,s28_p758_my25}"
+"ac9ec4b2-2ee9-41ca-be2e-bcf1346e57a5","Adjustable Speed Limiter Device (with Optional Intelligent Speed Assistance) FNV2",1.2,"{rcb_j74_my24,v769_rcb_my24,rcb_v710_b2_my24,rcb_bx726_mca_my24,rcb_bx726_bev_my24}"
+"28a5e167-6e04-4eb8-909e-f880cd11726d","Auto Stop Start Telltale or Fixed RTT",2.4,"{cx430mca_sx2_my25,p703_base_my26,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,p703_base_my26_fnv2_1,p703_j73_my26,p703_j73_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26}"
+"1df51bdd-30b3-4f59-b2d6-efbab171e9fa","Shift by Wire Control Function",10,"{cx430mca_sx2_my25}"
+"4521c775-63c2-43e3-a9b5-3ee9fbbc51c2","Low Fuel Reminder RTT or Telltale - IPC or PCM Algorithm",7.1,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"3bb40c5d-d7c9-4a3f-8e7e-d5f4e6089c9d","Warning – Brake Over Accelerator",1.4,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"4c00e36f-d64c-434f-9900-e9547f3934b8","Warning - Check Fuel Fill Inlet",1.1,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"1f9dfda8-1734-40ad-9869-3e16517c3523","Lane Assist Control Function",11.1,"{sx2_cx482_eu,sx2_cx482,p702_lx_my23,c727_my25}"
+"6cec8a38-1794-4775-8ed2-8597debf106f","Trip Computer - Timers",2.8,"{rcb_v710_b2_my24,rcb_j74_my24,rcb_bx726_mca_my24,rcb_v769_bev}"
+"269c9e26-9101-4562-a2f8-19536f9f4036","Hill Descent Control Function",2,"{u554_lx,u553_lx,p703_u704,p703_j73,p703_raptor,p703_base,u725_my22_5,p708_rcb,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_p702_base_my25,rcb_p702_raptor_my25}"
+"e1326fc8-b2dd-4b82-a562-f64c23ecfbba","Predictive Lighting Control Function",2.1,"{cx482_mca_my23,s28_v710_my23,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_p702_base_my25,rcb_p702_raptor_my25}"
+"64d3d619-67ae-40af-9895-feb16df5f1a2","Blind Spot Monitor and BTT with Cross Traffic Alert",14.2,"{c727_my25}"
+"3027fce9-bb36-435f-b444-dcc948ff7aeb","Local Hazard Information Display Function",1.2,"{c727_my25,sx2_c519_gsr_my24}"
+"cb8d5ba5-a40c-4474-874c-a300db646414","Navigation Turn by Turn Control Function",1.2,NULL
+"8ad53731-6c51-43ae-986e-0222cc0017be","Warning – Brake Pad Wear",1.2,"{u725_my25_b,s28_v363_my24_75}"
+"74565151-9d15-4aa0-9561-f86e08482a31","Warning – Brake Pad Wear",1.3,"{s28_v363_my24_75}"
+"87a85172-69db-400a-b24b-6a2610f34b6d","Highway_Assist_with_Lane_Centering_Control_Function_and_Warnings_FNV2",3.6,"{c727,sx2_cx482_eu,sx2_cx482eu_my26_5}"
+"cc3b2789-c839-4246-903d-c94395ccb112","Ready Telltale BEV_PHEV_FHEV",2.1,"{p703_base_my26}"
+"0f7ca50c-af1b-4acb-8ac8-e463f3091277","Warning - Lane Assist System",6.1,"{v769_rcb_my24,rcb_j74_my24,p703_raptor_my26,p703_j73_my26,p703_u704_my26,rcb_p702_base_my25}"
+"cd4af29c-1a8a-4d7d-9323-1ee80115fc4e","Highway Assist with Lane Centering Control Function and Warnings",5.0,"{c727_my25,p703_base_my26}"
+"26fb9bcc-c32a-4156-ab7c-1089045fbc34","Warning - Approaching Vehicle Audible System ",1.1,"{s28_p758_my25}"
+"d5876c85-d2c1-46f8-9ceb-120c7dd33b8c","Selectable Drive Mode Control Function",3.7,"{c727_my25}"
+"b07250c0-d27c-4c40-8205-b81cbc577003","Battery Charge RTT and Warnings",3,"{rcb_j74_my24,v769_rcb_my24,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26,sx2_cx482,sx2_cx482_eu,sx2_cx482eu_my26_5,rcb_v710_b2_my24}"
+"ff905ce1-7d15-48bc-b66d-5e7b284f4b32","Warning - HV to LV Energy Transfer - BEV-PHEV",1.2,"{p703_base_my26_fnv2_1}"
+"c745d86a-7ced-49f7-a38a-bc3401e92bbd","Display Language Selection Control Function",11,"{p702_bev,u553_lx,u554_lx,sx2_cx482,sx2_cx483,p708_rcb,rcb_p702_base_my24,rcb_p702_raptor_my24,p702_lx_my23,p702_bev_my24,rcb_p702_base_my25,rcb_p702_raptor_my25,p702_l1_my26}"
+"9a24d10b-e032-4324-bfe1-6604f1fc6184","Powertrain Malfunction RTT with CHECK4x4_AWD Message",11.5,"{s28_v363_my24_75}"
+"97e272a4-a051-456e-acb4-d7eab848ff86","Display Unit Selection Control Function",5.5,"{p703_base,p703_raptor,p703_u704,p703_j73,u725_my22_5,sx2_cx482,sx2_cx482_eu,sx2_cx483,p708_rcb,s650_rcb,cx482_mca_my23,s28_v710_my23,u725_my23,rcb_p702_base_my24,rcb_p702_raptor_my24,s28_p758_my25,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,s28_v769_my23,cx430mca_sx2_my25,sx2_c519_gsr_my24,rcb_p702_base_my25,rcb_p702_raptor_my25,p703_base_my26_fnv2_1}"
+"9521374c-5801-4bc8-af8b-b6d072cb972b","ACC Cluster Interface Specification",28.4,"{c727_my25,rcb_bx726_mca_my24,rcb_bx726_bev_my24,rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24}"
+"be568c6a-c3ed-4906-b8b8-34770b7deecb","Trip Summary and Drive Cycle (This Trip) Function - PHEV_FHEV",3.4,"{rcb_v710_b2_my24,rcb_j74_my24,p703_base_my26}"
+"353a0034-a26c-4336-b30f-aa4eccab85bf","Warning _ Diesel Run Dry_Fuel Tank Empty Engine will Shutdown",1.3,"{rcb_j74_my24}"
+"0ebcfa23-d992-4cf3-b11f-7218260c21b3","Grade Assist Control Function",1.1,"{rcb_v710_b2_my24,rcb_j74_my24}"
+"bb2a90de-ff54-4ddc-8991-766e36ff0c3c","Warning – Oil Life",1.1,"{s28_p758_my25}"
+"d1049f3a-b230-496b-baa3-48e00283d5e6","Warning - AWD_4x4 OFF",6,"{s28_p758_my25}"
+"6118c224-0c99-4327-8337-41a11b08f869","Charge Cord Connected RTT BEV_PHEV - All Markets Including China",2.4,"{p702_bev_my25,p703_base_my26_fnv2_1}"
+"de6375c4-510f-4b3e-af16-5eb9b95391da","Ready Telltale BEV_PHEV_FHEV",2.2,"{rcb_p702_base_my24,s28_v363_my24_75,cx482_mca_my23,s28_v710_my23,p703_base_my26_fnv2_1}"
+"30b391dd-7535-4add-8031-65c962ca123c","Automatic Regen Control (ARC) Function_Warning_RTT_Telltale",2.0,"{rcb_j74_my24,p702_l1_my26}"
+"37fb33a5-3657-4c81-9a44-16f84a45ac97","High Beam, Auto High Beam and Adaptive Drive Beam Indication RTT - FNV3",1.0,"{cx430mca_sx2_my25,p702_l1_my26}"
+"27d8aa00-78c5-49c9-a507-060a9e750a56","Trailer Sway Control Function",3.1,"{u554_lx,u553_lx,p703_u704,p703_j73,u725_my22_5,sx2_cx482,sx2_cx483,cx482_mca_my23,s28_v710_my23,p708_rcb,p703_base,p703_raptor,p702_bev,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,cx430mca_sx2_my25,sx2_c519_gsr_my24,rcb_p702_base_my25,rcb_p702_raptor_my25}"
+"0d41c86f-d9e2-4cbe-8a37-ed69f69f99be","Hazard RTT and Warning xHEV, BEV - All Markets Except China",3.1,"{p702_l1_my26}"
+"4681188b-5af3-4c82-8103-c4fda2823745","Power Gauge – Virtual - BEV",1.3,"{rcb_v710_b2_my24,rcb_v769_bev,rcb_bx726_mca_my24,rcb_j74_my24,s28_v363_my24_75}"
+"e8eb5949-02a8-4d44-aae9-1a3774f1aec0","Low Oil Pressure RTT_Fixed - Gas_Diesel_HEV",5.1,"{p702_l1_my26}"
+"564c73f7-64eb-4dfa-9851-b9b1e918802d","Wrong Way Alert Control Function and Warning",2.3,"{rcb_v710_b2_my24,sx2_c519_gsr_my24,rcb_v769_bev,v769_rcb_my24,rcb_j74_my24}"
+"c51f6111-1e80-4441-976c-bf26abef0f8f","Hill Start Assist Control Function",3,"{p703_j73,p703_u704,cx482_mca_my23,s28_v710_my23,p703_base,p703_raptor,u553_lx,u554_lx,p708_rcb,p702_raptor_my22,p702_tremor_my22,u725_my22_5,s650_rcb,v769_rcb_my24,cx430mca_sx2_my25,sx2_cx482_eu,sx2_cx482,s28_p758_my25,p703_base_my26_fnv2_1,p703_j73_my26_fnv2_1,p703_raptor_my26_fnv2_1,p703_raptor_my26,p703_base_my26,p703_j73_my26,p703_u704_my26}"
+"3db82c49-6b50-4cbb-9a32-483504844cc3","Warning – Change AWD/4WD Power Transfer Unit Lube",2.0,"{rcb_v710_b2_my24,rcb_j74_my24}"
+"54bf228a-5a75-4c01-96f2-48a792b9ff49","ACC Cluster Interface Specification",30.1,"{cx430mca_sx2_my25,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26,p703_base_my26_fnv2_1,p703_j73_my26_fnv2_1,p703_raptor_my26_fnv2_1}"
+"db0233eb-0e1e-4302-a0f9-b47d8d42aa14","Low Washer Fluid RTT and Warning",3,"{p702_l1_my26}"
+"6b5e23d9-b7c7-44be-9295-f29b35758169","Warning - Brake System",3.3,"{cx430mca_sx2_my25,rcb_j74_my24,v769_rcb_my24}"
+"2aef4f95-e3a2-45c9-9e73-ef1fe2000dc3","Powertrain Malfunction RTT with CHECK4x4_AWD Message",10,"{p702_l1_my26}"
+"5d80d1e8-d262-491d-8db5-b95110d2c884","Warning – Emergency Call System Fault",1.2,"{v769_rcb_my24}"
+"1c0c3587-c03a-41ea-bb9b-ddf0bc845e79","Warning - Electric Park Brake and Performance Electric Park Brake with RTT",3.2,"{p702_l1_my26}"
+"8e8e8c93-d39a-421f-b63d-c7eb8b1a5975","Warning - Shift Out of Neutral",1.2,"{s28_p758_my25,rcb_v710_b2_my24,p703_base_my26,p703_u704_my26,p703_base_my26_fnv2_1,p703_j73_my26_fnv2_1,p703_raptor_my26_fnv2_1,p703_j73_my26}"
+"bc7362b6-604e-4fbb-9f4e-1da13768792b","Warning- Charge Station Fault",1.3,"{rcb_v710_b2_my24,v769_rcb_my24}"
+"7bfea097-5790-453c-bb55-369e726252b9","Battery Temperature Gauge - BEV",2.0,"{s28_v710_my23,rcb_v710_b2_my24,rcb_v769_bev,rcb_j74_my24,rcb_bx726_mca_my24}"
+"33706e50-4a27-40ae-af19-cc50a5fa03d5","Brake Coach Gauge - xEV",5.4,"{rcb_bx726_mca_my24,rcb_v710_b2_my24,rcb_j74_my24,v769_rcb_my24,p703_base_my26_fnv2_1,p702_l1_my26}"
+"669b9243-1ffb-4b54-9fdb-8a531556728f","Warnings - Hill Descent Control (HDC) with On_Off Indicator on Switch ",3,"{rcb_v710_b2_my24,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26}"
+"09533146-6e8e-4a80-baac-5be9f3d3ace0","Warning - Approaching Vehicle Audible System ",1.3,"{rcb_j74_my24,rcb_p702_base_my25}"
+"99ce1681-dba5-4239-ad01-a961e41ea354","
+Trip Summary and Drive Cycle (This Trip) Function - BEV",1.3,"{rcb_v710_b2_my24,rcb_j74_my24,rcb_bx726_bev_my24,rcb_v769_bev}"
+"d5ebfaf0-2d20-44bd-9109-b5b3d608fd39","Water In Fuel RTT and Warnings",5.2,"{p702_l1_my26}"
+"d9bf092d-8838-46e9-abb1-9010d80e0ae5","Warning - Electric Park Brake and Performance Electric Park Brake with RTT",3.1,"{cx430mca_sx2_my25,rcb_v710_b2_my24,rcb_bx726_bev_my24,v769_rcb_my24}"
+"922bb318-ff3e-41ec-8c14-8d662bee4828","Warning - Thermal Runaway - xEV",2.1,"{s28_p758_my25,rcb_v710_b2_my24,sx2_c519_gsr_my24,p703_base_my26_fnv2_1}"
+"f4daf797-c2bc-4149-8095-68db3800b432","Warning- Charge Station Fault",1.2,"{rcb_v710_b2_my24,v769_rcb_my24,p703_base_my26_fnv2_1}"
+"896eee72-7865-4ce8-9d7a-ee9e36dfd1c7","Warning - Side Wind Compensation",1.1,"{rcb_v769_bev,rcb_p702_base_my25}"
+"a9c5a15a-25e8-4b6e-97ed-ea8f5a6d3ee0","Traffic Sign Recognition Control Function FNV2",1.1,"{p703_base,p703_raptor,sx2_cx482_eu,sx2_cx482eu_my26_5}"
+"a7765e6a-76c0-4e72-9c31-4f1579a24474","Exit Warning (Clear Exit Assist) Control Function",1.1,"{s28_p758_my25,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26,sx2_cx482,sx2_cx482_eu,sx2_cx482eu_my26_5}"
+"98266ada-eb82-4052-9d90-404dd766895e","Distance to Empty Function - IPC or PCM Algorithm",3.1,NULL
+"4f4c2090-66ce-4476-aeab-813f28542cad","Distance to Empty Function - IPC or PCM Algorithm",4.0,NULL
+"859815c8-ea70-4150-bc51-afdfff3d3896","Distance to Empty Function - IPC or PCM Algorithm",5.0,NULL
+"bba10bc7-9731-4f84-8dc1-b5008c4ec314","Fuel Economy - Instantaneous - LPG",1.0,NULL
+"42a15cf7-1b8b-497b-9d30-44c73763a202","Fuel Economy – Instantaneous Function – LPG",1.1,NULL
+"54d4d814-ecd2-422f-86a8-a433e1955bbc","Fuel Economy (AFE AFE Histogram IFE LT DC MyKey)",22.3,NULL
+"d3200a68-4888-4d6d-8fa9-b01058171760","Fuel Economy (AFE AFE Histogram IFE LT DC MyKey)",23.0,NULL
+"2dc93bc4-0c28-4b02-990b-c805a7846a35","Fuel Economy (AFE AFE Histogram IFE LT DC MyKey)",23.1,NULL
+"f530b006-86d0-4692-97a3-c431af031a65","Fuel Economy (AFE AFE Histogram IFE LT DC MyKey)",22.5,NULL
+"af1a0f7c-9d9e-46dd-9185-c2e45d7f2adc","Fuel Economy (AFE AFE Histogram IFE LT DC MyKey)",23.2,"{rcb_v710_b2_my24}"
+"9cd016d3-a42c-4ac5-8c63-1376ce88eac7","Trip Computer – Average Speeds",2.1,"{rcb_v710_b2_my24,rcb_j74_my24,rcb_bx726_mca_my24,rcb_v769_bev}"
+"a7c58931-cdb1-45ba-bbdd-2a5a3ec107a1","Trip Computer – Average Fuel Economies",3.3,"{rcb_v710_b2_my24,rcb_j74_my24,rcb_bx726_mca_my24,rcb_v769_bev}"
+"b2458a87-83b2-43e0-aeff-c389ccb230da","Exit Warning (Clear Exit Assist) Control Function",1.2,"{sx2_cx482_eu,c727_my25,rcb_v710_b2_my24}"
+"f8b8d7f8-cade-475d-bc02-97a79b7e28e8","Warning Generic",1.0,"{v769_rcb_my24,rcb_j74_my24,p703_base_my26_fnv2_1}"
+"3e03fa4b-8b37-4f0c-a2b7-1bf736a2483a","Grade Assist RTT - PHEV_FHEV",1.2,"{p703_base_my26_fnv2_1}"
+"6e4cd647-8f61-4971-8869-1f70dd96022b","Hazard, Battery Disconnected, HEV Sys Fault, and Battery Charging RTTs and Warning Messages",4.7,"{p703_base_my26_fnv2_1,p702_l1_my26}"
+"7f292c35-46bf-42b8-9cd6-e1ddd3323b09","Tachometer Gauge",4.2,"{sx2_cx482,s650_rcb,p703_j73,p708_rcb,sx2_cx483,rcb_p702_raptor_my24,rcb_p702_base_my24,s28_p758_my25,rcb_bx726_mca_my24,sx2_cx482_eu,rcb_v710_b2_my24,rcb_j74_my24,rcb_p702_raptor_my25,p703_j73_my23b,p703_base_my26_fnv2_1,s650_legend_my26}"
+"0d0ea261-a088-453e-93d8-0a045c46f363","Trip Computer - Average Efficiency- BEV",1.2,NULL
+"0771a4ee-edcc-4bdd-b3e0-7a1303dc09cc","Trip Computer - Average Efficiency- BEV",1.3,NULL
+"9e65a279-7d74-4876-844e-8ec37a2db258","Trip Computer – Average Fuel Economies - LPG",1.1,NULL
+"49fe3049-99c5-4e6a-adba-8cb30571df82","Trip Computer – Average Fuel Economies - LPG",1.0,NULL
+"a554224a-f419-4c97-bec1-b67242114a49","Trip Computer - HMI",6.0,NULL
+"d0321a5e-1c81-4c1d-b5c7-75cc4dad2985","Trip Computer - HMI",4.0,NULL
+"6673c653-329e-4efe-bad4-01b0912331d0","Trip Computer - HMI",5.0,NULL
+"6bff0a17-fb5c-4b16-9b08-81b4380f3c42","Trip Summary and Drive Cycle (“This Trip”) Function - BEV",1.2,NULL
+"f55e3ecf-8bac-4dcc-862e-ba5474fb539a","
+Trip Summary and Drive Cycle (This Trip) Function - PHEV_FHEV",3.2,NULL
+"603cb555-088d-4692-a527-982ae47c96b8","
+Trip Summary and Drive Cycle (This Trip) Function - PHEV_FHEV",3.3,NULL
+"47f90f6a-242b-4aca-bc7a-9a6603c65971","Highway Assist with Lane Centering Control Function and Warnings-FNV2",3.4,"{p702_bev_my25}"
+"ba55b473-1c41-4164-bba6-db2bcdf5ca9a","Navigation Turn by Turn Indication Control Function",1.2,"{s28_p758_my25,rcb_v710_b2_my24,rcb_j74_my24,v769_rcb_my24,rcb_bx726_mca_my24}"
+"c01aecf3-a72b-483b-a7f8-d4f2ad8570d9","Warning - Low Oil Level ",1.1,"{s28_p758_my25,rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_p702_base_my25,p703_base_my26}"
+"7bd59dc7-8086-499c-9850-9d69d038376a","Warning – Delivery Assist and RTT– FNV3_v1.0",1,"{rcb_j74_my24,rcb_v710_b2_my24}"
+"0a82baff-ae16-45d1-949b-da60465f3565","Hood Ajar Warning SRD 1.0",1.0,"{rcb_bx726_bev_my24,rcb_bx726_mca_my24,s28_cx430_my26}"
+"2408f381-6b95-4848-b893-22c9b161cd71","Manage EV Display_PHEV",7.9,"{rcb_v710_b2_my24,rcb_j74_my24,p703_base_my26_fnv2_1,rcb_j74_my26}"
+"2c83dfb0-9a3d-4c53-9da5-1b4794d14b9e","Low Fuel Reminder RTT or Telltale - IPC or PCM Algorithm",5,"{p703_base_my26_fnv2_1}"
+"9f782aa0-ced9-456b-855a-518a7c75ff73","Warnings - Diesel - Engine Warming Please Wait and Ok to Drive",2.3,"{p708_my25,rcb_v710_b2_my24}"
+"42471dea-f548-4173-9760-c2f4b70e6130","Status Screen IoD Display-Ford Performance",1.7,"{rcb_p702_raptor_my25}"
+"2b9b9535-0e29-4ec1-b3b5-2447c557ab66","Warning - High Altitude - BEV",1.0,"{v769_rcb_my24,rcb_bx726_mca_my24,rcb_bx726_mca_my26,rcb_v769_my26}"
+"89f0f537-6841-4cae-86dc-c558a207be6e","Warning - 1-Pedal Drive - BEV",1.4,"{v769_rcb_my24,rcb_j74_my24}"
+"446a3ff3-ceac-4a67-8edb-f559c1efd77b","Shift by Wire Control Function",10.1,"{rcb_j74_my24}"
+"881ce7b2-9f9f-40da-aed4-50ab9ed7ac55","Warnings - Retractable Tow Bar",1.1,"{rcb_j74_my24}"
+"3c2e0518-a777-4ac1-b8d8-ec7910f1a901","Warning – Diesel - Low Fuel Pressure",1.3,"{sx_mcac519,sx2_c519_gsr_my24}"
+"24722a00-ecab-4791-bdf5-443244e4dc73","Warning - Limited Battery Performance Due to Cold or Hot Battery and RTT - BEV",2.0,"{v769_rcb_my24}"
+"99592274-502f-4e25-bcc1-06bccabbbde7","Warning – Low Battery Charge Reduce Climate Usage RTT Warnings – BEV ",1.4,"{rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24}"
+"24640d92-2fc3-4a74-956d-0172210f4041","Warning- Thermal Runaway ",1.3,"{sx2_c519_gsr_my24}"
+"76b2559c-ad57-4504-825e-23d1b2a9e304","Warning - Advancetrac Ask On Stuck Turn TCS Off",2.4,"{p702_bev_my25}"
+"9912b76a-f5d4-4ca1-9b6b-16200bd03d05","Blind Spot Monitor and BTT with Cross Traffic Alert",14.1,"{rcb_bx726_mca_my24,rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24}"
+"eec67243-6e4a-42cb-8c00-3ae68e833650","Diesel Exhaust Overtemp Warning Chime",1.3,"{sx2_c519_gsr_my24}"
+"702f43f3-1d85-4149-94dc-801e4e156cc0","Door_Liftgate_Liftglass_RTT, Trunk_Ajar_RTT_HoodAjarRTT and Messages",8.4,"{p702_bev_my25}"
+"5d9adea0-9416-4b7d-a07e-b176eebe0125","Hill Park Assist SRD 1.0",1.0,"{rcb_bx726_bev_my24,v769_rcb_my24}"
+"e3836f96-eeb7-4bbd-b92d-dd3c14cbb474","Lifetime Summary Reset Control Function - xEV",3.5,"{rcb_j74_my24}"
+"2b4ee06d-24ce-4183-ab45-74753db9093a","Highway Assist with Lane Centering Control Function and Warnings - FNV2",3.4,"{rcb_j74_my24,sx2_cx483,rcb_v710_b2_my24,v769_rcb_my24,rcb_bx726_mca_my24,rcb_bx726_bev_my24}"
+"3ef17c12-b38a-4cc3-a9d1-95963e0c3dac","Speedometer Gauge View Control Function",1.2,"{s28_p758_my25}"
+"ecf4bff5-9823-44bd-b89d-ff6b3f258b8a","Warning- Push to Start Button Fault",1.3,"{s28_v363_my24_75}"
+"87e6e1b1-397e-4d64-8aee-cd8f84a7c982","Door_Liftgate_Liftglass_RTT, Trunk_Ajar_RTT_HoodAjarRTT and Messages",8.3,"{v769_rcb_my24}"
+"d2e8863f-9388-404f-830b-cfa7bd21c1a8","Warning – Cloud Enhanced Distance to Empty (CE-DTE) – BEV – FNV2",1.1,"{rcb_j74_my24,v769_rcb_my24}"
+"210e46b2-74ac-4bdd-8caa-c16e75097798","Warning Generic Application SRD 1.3",1.3,"{rcb_bx726_mca_my24,rcb_bx726_bev_my24}"
+"ed261dd1-8305-43c7-80f0-9a85e57406a6","Warning - Charge Port Door Ajar - BEV_PHEV",1.1,"{p703_base_my26_fnv2_1}"
+"5d7a96f8-19dd-4e7a-ad58-8966e8b1a367","Local Hazard Information Display Function",1.3,"{p703_base_my26_fnv2_1,p703_j73_my26_fnv2_1,p703_raptor_my26_fnv2_1,p703_j73_my26,p703_raptor_my26,p703_u704_my26,p703_base_my26}"
+"e7011634-1c4e-4c60-a794-e74e2056bd1f","Warning – Pro Power onBoard",1.2,"{rcb_j74_my24}"
+"700cf441-ff34-42f4-9e11-fabe60a5f50c","Local Hazard Information Display Function",2.1,"{u725_my25_b,sx2_cx482}"
+"7f0ce5f9-a8bf-4ee7-93a8-7e2701911024","Hill Start Assist Control Function",3.2,"{p703_base_my26_fnv2_1,p703_j73_my26_fnv2_1,p703_raptor_my26_fnv2_1,p703_raptor_my26,p703_base_my26,p703_j73_my26,p703_u704_my26}"
+"7c9e1717-d63b-410a-b4fb-77a6583a57fa","Warning - Transmission",2.3,"{cx430mca_sx2_my25,s28_p758_my25,rcb_j74_my24,v769_rcb_my24,rcb_v710_b2_my24,rcb_p702_base_my25}"
+"5fa403bc-802d-4058-ab53-3e6dc64d92db","Warning - Front Camera Malfunction",1.2,"{cx430mca_sx2_my25,rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_p702_base_my25}"
+"41770eec-fd30-4b96-a9e9-c9689b1491f9","Brake Telltale / Electric Park Brake",5.2,"{u553_lx,u554_lx,p703_raptor,p703_base,p703_u704,p703_j73,p708_rcb,rcb_p702_base_my24,rcb_p702_raptor_my24,cx482_mca_my23,s650_rcb,p708_l1,p708_my24,sx2_cx482,cx430mca_sx2_my25,p703_base_my26,p703_base_my26_fnv2_1,p703_j73_my26,p703_j73_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26}"
+"5b824a36-3762-4ee9-b493-471891e4f3ab","Hazard, Battery Disconnected, HEV Sys Fault, and Battery Charging RTTs and Warning Messages",4.6,"{rcb_p702_base_my25}"
+"aed07547-56f7-48c8-8ba1-ce506ebbbe2f","Warning - Autopark",7.1,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"e6ad5a23-be9c-4ce2-9bb3-ab31ce710b9c","Trip Computer - Timers",2.7,NULL
+"c939af93-31dc-4be5-8a5b-afc1776ccc34","Highway Assist with Lane Centering Control Function and Warnings - FNV2
+",5,"{p703_raptor_my26,p703_j73_my26,p703_u704_my26}"
+"7bdcecfa-05b3-460e-8baa-fa8d2655ab89","Warning - Transport Mode",2.2,"{cx430mca_sx2_my25,rcb_p702_base_my25,rcb_p702_base_my24}"
+"0b3a1e4e-36c6-4fd6-9dce-e93dc686209f","Trail Control Warnings and RTTs",2.3,"{cx430mca_sx2_my25,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26,rcb_p702_base_my25,p702_l1_my26}"
+"3b105b6d-120b-4159-ae77-f5a52c44d21c","Warning-Traction Control OFF_Traction Control ON_Advancetrac OFF_Advancetrac ON",7.2,"{v769_rcb_my24,rcb_bx726_mca_my24,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26}"
+"5d03ca1d-7d24-4dff-8caa-bdd993f0d5e0","Warning - Power Child Lock, Switch Inhibit, Low Key FOB Battery and Check Tailgate Ajar",4.1,"{v769_rcb_my24,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26,rcb_v710_b2_my24,p703_base_my26_fnv2_1}"
+"cb5e7606-68b9-4a2b-ad74-b3eeda2f34a4","Shift by Wire Control Function",11,"{}"
+"d930a09e-4043-4cf1-8773-66bed8228df9","Selectable Drive Mode Control Function",3.1,"{p702_l1_my26}"
+"433b0dc2-ee5b-4ac5-a8bc-ea0790041a64","Shift by Wire Control Function",11.3,"{rcb_bx726_mca_my24,v769_rcb_my24,p702_l1_my26}"
+"31fd4839-f1f7-4036-a333-ef09ad7fff12","Warning - Auto Stop_Start",4.3,"{cx430mca_sx2_my25,rcb_v769_bev,s28_p758_my25,v769_rcb_my24,rcb_p702_base_my25,p703_base_my26}"
+"26e2c443-a4dd-4ad5-8eaf-8a56fc4b444c","Warning - Lane Assist System",6,"{cx430mca_sx2_my25,rcb_bx726_bev_my24,sx2_c519_gsr_my24,p703_raptor_my26,p703_j73_my26,p703_u704_my26,p703_base_my26}"
+"ff3b0d41-a17f-417a-892d-509610206c9c","Selectable Drive Mode Control",3.7,"{p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26,p703_base_my26_fnv2_1,p703_raptor_my26_fnv2_1}"
+"f41b2d21-accf-444e-a31b-ea37358e7235","Warning - Vehicle Speed Limiter",6.3,"{p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26}"
+"76604a15-c295-401a-bd8f-501a57a475bc","Warning - Power Tailgate with Chimes and RTT",3.0,"{p708_my24}"
+"75b1d76d-14b8-4c30-9f10-0b09767012bb","Warning - Belt Monitor
+",7.8,"{p703_base_my26,p703_u704_my26}"
+"72fe15bf-0ce7-4719-b488-1cb516712ad4","Shift by Wire Control Function",11.6,"{s28_p758_my25,p702_l1_my26}"
+"15aa7a96-276b-4e24-95dd-348c22b8796f","Manage EV Display_PHEV",7.7,"{p703_base_my26,p703_base_my26_fnv2_1}"
+"ef4048ba-60a7-4b44-ad96-887dd8e09b63","Warning - Steering Wheel Lock",2.0,"{cx430mca_sx2_my25,rcb_p702_base_my25,p702_l1_my26}"
+"82410d14-5594-46a2-9da9-4bcb4a7d5fc8","Warning - Fuel Door Open Delay - xEV",3.3,"{s28_p758_my25,rcb_v710_b2_my24,p703_base_my26_fnv2_1,rcb_p702_base_my25,p702_l1_my26}"
+"9c52579f-d9ab-4e73-9851-75d327002439","Warning - Stabilizer Bar Status and RTT and IoD",1.2,"{p703_base_my26,p703_raptor_my26,p703_u704_my26}"
+"a14da534-dfaa-4002-8218-91b8554152c5","Left Turn_Right Turn_Hazard Signal Telltale",3.4,"{p703_base_my26,p703_base_my26_fnv2_1,p703_j73_my26,p703_j73_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26,rcb_v710_b2_my24,p702_l1_my26}"
+"a5d63b2d-2d87-4082-9c26-9643e70bbe94","PCA Cluster Interface Specification",33,"{rcb_v710_b2_my24,p703_base_my26,p703_base_my26_fnv2_1,p703_j73_my26,p703_j73_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26}"
+"c451bae2-fd9f-4e47-8dd2-1fa4442637dd","Fuel Level Gauge - IPC or PCM Algorithm",3.2,"{u554_lx,u725_my22_5,p703_raptor,p703_base,p703_j73,sx2_cx482,p703_u704,cx482_mca_my23,s650_rcb,u553_lx,sx2_cx483,p708_rcb,s28_v710_my23,p703_base_my23b,s28_p758_my25,sx2_cx482_eu,s28_v769_my23,sx2_c519_gsr_my24,s28_cx430_my26}"
+"9e73d1ea-091a-4994-b6b9-99d470da1310","Door_Liftgate_Liftglass_RTT, Trunk_Ajar_RTT_HoodAjarRTT and Messages",8.2,"{cx430mca_sx2_my25,p703_base,p702_bev_my24,rcb_v710_b2_my24,rcb_bx726_bev_my24,rcb_bx726_mca_my24,rcb_p702_base_my25,rcb_p702_base_my24,rcb_j74_my24,rcb_j74_my26}"
+"9f5b146c-998b-4eb5-9939-651a9795c7aa","Warning - Thermal Runaway - xEV",2.2,"{p703_base_my26}"
+"e1e4d037-b756-4eef-9b76-401b2e49c3c8","Operational Modes and Voltage Range Strategies",11.1,"{rcb_bx726_mca_my24}"
+"f1d207d3-5be9-42be-a065-3e957d7fae68","ACC Cluster Interface Specification",31,"{p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26,p703_base_my26_fnv2_1,p703_j73_my26_fnv2_1,p703_raptor_my26_fnv2_1}"
+"23914514-1fad-4887-ab38-f90b3a26fb69","TPMS__with_EUreset_PressureByLocation_PlacardDsply_DRW",12.1,"{cx430mca_sx2_my25,rcb_v710_b2_my24,rcb_j74_my24,v769_rcb_my24,rcb_p702_base_my25,p703_base_my26_fnv2_1,p703_base_my26,p703_j73_my26_fnv2_1,p703_j73_my26,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26}"
+"0e99349e-7aeb-4208-ac14-087be7c7bd98","Highway Assist with Lane Centering Control Function and Warnings",5.1,"{rcb_v710_b2_my26,p703_base_my26,p703_base_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_u704_my26,p703_j73_my26,p703_j73_my26_fnv2_1,rcb_bx726_mca_my26}"
+"7d622dae-cfbd-4b8a-b94a-a12758948795","Evasive Steering Assist Control Function",2.4,"{u553_lx,u554_lx,p703_base,p703_raptor,p703_u704,p703_j73,u725_my22_5,sx2_cx482,sx2_cx483,cx482_mca_my23,s28_v710_my23,p708_rcb,s650_rcb,p702_raptor_my22,p702_tremor_my22,p702_bev,rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_j74_my24,cx430mca_sx2_my25,rcb_p702_base_my25,rcb_p702_raptor_my25,p702_l1_my26,p703_base_my26}"
+"7b1497ca-050f-496f-888e-6ee848e75fd4","Warning - TBA2 TRG2 with Setup in Centerstack",1,"{s28_p758_my25,rcb_p702_base_my25}"
+"bb40ab25-8345-4958-b439-f0ae472362f3","Driver Alert System Control Function",6.2,"{p703_base_my26,p703_base_my26_fnv2_1,p703_raptor_my26,p703_raptor_my26_fnv2_1,p703_j73_my26,p703_j73_my26_fnv2_1,p703_u704_my26,rcb_v710_b2_my26,rcb_j74_my26,rcb_bx726_mca_my26,rcb_v769_my26,sx2_cx482eu_my26_5}"
+"207a18f2-203e-4570-85b2-d4e8ea6a0040","Warning - Reverse Brake Assist",1.2,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"c617a8c4-5feb-4afd-ab4b-ce51fade3f4f","Warning - Gas Particulate Filter (GPF) Warning",1.3,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"651ff738-0e82-4a6e-a6ff-bf5af6b32296","Warning - Remote Start",4.2,"{cx430mca_sx2_my25,s28_p758_my25,rcb_p702_base_my25}"
+"24290e38-02be-4375-8df0-598da749701f","Warning - Trailer Sway Reduce Speed",2.1,"{cx430mca_sx2_my25,s28_p758_my25,v769_rcb_my24,rcb_p702_base_my25}"
+"62ba28dc-e703-4f22-bd6c-d428302ddb55","Warning - Headlamp Switch Status",1.1,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"fae283cb-12cf-445a-a8e9-f74d74e276f9","Warning - Memory Seat Status",3,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"dbbcbc4d-d0d9-47d3-808b-c7eb1eb84d7e","ACC Cluster Interface Specification",29.1,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"597d3a18-1039-4b95-8378-d1c9f6698468","Warning - Vehicle Inhibit (OTA)",1.4,"{cx430mca_sx2_my25,rcb_v710_b2_my24,v769_rcb_my24,rcb_p702_base_my25}"
+"df8773b6-b52f-4115-8e8e-dc72648b1ca3","Warning - Perimeter Alarm",1.1,"{cx430mca_sx2_my25,s28_p758_my25,rcb_p702_base_my25}"
+"ef4b27d4-b9f4-4641-9e5c-0edc935d7f66","Warning - OFF Road Mode",2.2,"{cx430mca_sx2_my25,s28_p758_my25,rcb_p702_base_my25}"
+"e2569869-7fcf-4262-9f46-a50278670261","Hill Start Assist Control Function",3.1,"{v769_rcb_my24,rcb_p702_base_my25}"
+"cee668e4-5fd2-4693-acf3-540e0340e2c1","Automatic Engine Shutdown Control Function Warning Messages",2.9,"{cx430mca_sx2_my25,p703_raptor_my23b,p703_base_my23b,p703_j73_my23b,p703_u704_my23b,s28_p758_my25,rcb_j74_my24,v769_rcb_my24,rcb_v710_b2_my24,rcb_p702_base_my25}"
+"9efce7c5-a98a-4ace-befd-2f8cdd6f80be","Warning - Starting System",2,"{cx430mca_sx2_my25,rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_p702_base_my25}"
+"6d17d2d9-5435-4bc1-98bb-da0295712659","Engine Temperature RTT",5.8,"{rcb_p702_base_my24,rcb_p702_raptor_my24,rcb_bx726_mca_my24,s28_v363_my24_75,cx482_mca_my23,s28_v710_my23,s28_v769_my23,rcb_j74_my24,p702_bev_my25,rcb_v710_b2_my24,v769_rcb_my24,rcb_p702_base_my25}"
+"da0e016c-39de-4fff-a065-fc1ac58a97d6","Warning- Push to Start Button Fault",2,"{rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_p702_base_my25}"
+"0449775e-a648-4065-872b-18dd5cf2d0a0","Warning - Passive Entry Passive Start Immobilizer",11,"{cx430mca_sx2_my25,s28_p758_my25,rcb_j74_my24,rcb_v710_b2_my24,v769_rcb_my24,rcb_p702_base_my25}"
+"a30f51a9-51b5-454c-b839-de55afb9b266","Warning-Traction Control OFF_Traction Control ON_Advancetrac OFF_Advancetrac ON",7.1,"{cx430mca_sx2_my25,rcb_p702_base_my25}"
+"1c7d5f86-fa46-4bd0-8f64-c3780da6c024","Shift By Wire Control Function ",9.1,"{p703_base_my26_fnv2_1,p703_raptor_my26_fnv2_1,p703_base_my26,p703_raptor_my26,p703_j73_my26,p703_u704_my26,rcb_p702_base_my25}"

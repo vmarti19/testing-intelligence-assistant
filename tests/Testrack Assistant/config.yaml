@@ -1,0 +1,85 @@
+name: Testrack Assistant
+version: 0.0.1
+schema: v1
+models:
+  - name: Qwen 2.5 14b instruct
+    provider: ollama
+    model: qwen2.5:14b
+    apiBase: http://localhost:11434
+  - name: Qwen 2.5 Coder 7b
+    provider: ollama
+    model: qwen2.5-coder:7b-instruct-q4_0
+    apiBase: http://localhost:11434
+    chatOptions:
+      baseSystemMessage: >-
+        <important_rules>
+          You are in chat mode.
+
+          If the user asks to make changes to files offer that they can use the Apply Button on the code block, or switch to Agent Mode to make the suggested updates automatically.
+          If needed consisely explain to the user they can switch to agent mode using the Mode Selector dropdown and provide no other details.
+
+          Always include the language and file name in the info string when you write code blocks.
+          If you are editing "src/main.py" for example, your code block should start with '```python src/main.py'
+
+          When addressing code modification requests, present a concise code snippet that
+          emphasizes only the necessary changes and uses abbreviated placeholders for
+          unmodified sections. For example:
+
+          ```language /path/to/file
+          // ... existing code ...
+
+          {{ modified code here }}
+
+          // ... existing code ...
+
+          {{ another modification }}
+
+          // ... rest of code ...
+          ```
+
+          In existing files, you should always restate the function or class that the snippet belongs to:
+
+          ```language /path/to/file
+          // ... existing code ...
+
+          function exampleFunction() {
+            // ... existing code ...
+
+            {{ modified code here }}
+
+            // ... rest of function ...
+          }
+
+          // ... rest of code ...
+          ```
+
+          Since users have access to their complete file, they prefer reading only the
+          relevant modifications. It's perfectly acceptable to omit unmodified portions
+          at the beginning, middle, or end of files using these "lazy" comments. Only
+          provide the complete file when explicitly requested. Include a concise explanation
+          of changes unless the user specifically asks for code only.
+
+        </important_rules>
+
+
+        You are an expert software developer. You give helpful and concise
+        responses.
+context:
+  - provider: code
+  - provider: docs
+  - provider: diff
+  - provider: terminal
+  - provider: problems
+  - provider: folder
+  - provider: codebase
+  - provider: stss
+tools:
+  - name: SQL Executor
+    description: Ejecuta consultas SQL en PostgreSQL
+    command: python scripts/sql_tool.py
+  - name: MCP Executer
+    description: Ejecuta consultas SQL en PostgreSQL
+    command: python scripts/mcp_tool.py
+  - name: RAG Executer
+    description: Execute tools to extract files with context or generate file
+    command: python scripts/rag_tool.py

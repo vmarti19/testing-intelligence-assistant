@@ -1,0 +1,16 @@
+#info, #hidden_info{
+	height: 25px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+#result{
+	clear: both;
+	margin-left: 10px;
+}
+
+table{
+	font-family: "Noto Sans", sans-serif;
+	font-size: 13px;
+}

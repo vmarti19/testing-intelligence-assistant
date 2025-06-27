@@ -1,0 +1,10 @@
+Type Description,Description,Warning Type,NWD Time,Ack in New,Instant Ack,OWC Time,Ack in Old,Required Display Time,Timeout Acknowledged
+Global Alert Types,Non-Resetable Global Alert,NGA,2,No,No,4,No,No,No
+Global Alert Types,Resetable Global Alert,RGA,2,Yes,No,4,No,No,No
+Warning Types,Non-Resetable,NR,2,No,No,4,No,No,No
+Warning Types,Single Cycle*,SC*,2,Yes,No,4,Yes,No,No
+Warning Types,Single Cycle,SC*,2,Yes,No,4,Yes,No,No
+Warning Types,Temporary Alert*,TA*,2,Yes,No,4,Yes,No,Yes
+Warning Types,Temporary Alert,TA,2,Yes,No,4,Yes,Yes,Yes
+Other,Reconfigurable Telltale,RTT,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Other,Telltale / Reconfigurable Telltale,TT/RTT,n/a,n/a,n/a,n/a,n/a,n/a,n/a

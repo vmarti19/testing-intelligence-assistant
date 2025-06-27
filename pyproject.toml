@@ -5,7 +5,7 @@ version = "0.1.0"
 description = "An intelligent assistant project"
 authors = ["vmarti19@visteon.com"]
 readme = "README.md"
-packages = [{ include = "assistant", from = "src" },{ include = "models", from = "src" }]
+packages = [{ include = "src" },{ include = "test"}]
 
 
 [tool.poetry.dependencies]
@@ -59,6 +59,7 @@ llama-index-readers-file = "0.4.8"
 llama-index-readers-llama-parse = "0.4.0"
 llama-index-readers-markitdown = "0.1.1"
 llama-index-tools-mcp = "0.2.1"
+llama-index-utils-workflow = "0.3.5"
 llama-parse = "0.6.28"
 llamaindex-py-client = "0.1.19"
 jupyter_client = "8.6.2"

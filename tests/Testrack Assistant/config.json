@@ -1,0 +1,9 @@
+
+[
+  {
+    "name": "Documentador",
+    "description": "Agente que documenta funciones en Python",
+    "prompt": "Agrega comentarios tipo docstring a esta función en formato Google.",
+    "model": "Code Llama (local)"
+  }
+]

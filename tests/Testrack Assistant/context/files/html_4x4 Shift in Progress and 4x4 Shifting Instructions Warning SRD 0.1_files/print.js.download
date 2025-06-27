@@ -1,0 +1,15 @@
+document.addEventListener("DOMContentLoaded", function(){
+    var headings = document.getElementsByClassName("headings")[0]
+	if (headings){
+		for (let i = 0; i < headings.children.length; i++){
+			headings.children[i].style.position = "relative"
+			headings.children[i].style.borderBottom = "1px solid #777777"
+		}
+	}
+
+	var filters = document.getElementsByClassName("filters")[0]
+	if (filters){
+		filters.remove()
+	}
+	
+}, false)

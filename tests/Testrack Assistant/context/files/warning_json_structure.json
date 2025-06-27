@@ -1,0 +1,27 @@
+{
+    "wrn": {
+        "icon": "", 
+        "name": "", 
+        "color": "", 
+        "chime_id": "", 
+        "ok_button": false
+    }, 
+    "diag": "", 
+    "type": "", 
+    "generic": {
+        "pwr": [], 
+        "volt": [], 
+        "logic": {
+            "logic": "true", 
+            "override": {}, 
+            "config": "true"
+        }
+    }, 
+    "nwd_time": 0, 
+    "owc_time": 0, 
+    "priority": 0, 
+    "timeout_ack": false, 
+    "bulb_check_mask": false, 
+    "display_response": 100
+
+}
